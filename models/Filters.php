@@ -59,6 +59,7 @@ class Filters extends model {
         //MAIOR PREÇO         
         $array['slidermax'] = $products->pegaMaiorPreco($rFiltros);
         if($array['slider1'] == 0){
+            
             $array['slider1'] = $array['slidermax'];
         }
         //MENOR PREÇO 
