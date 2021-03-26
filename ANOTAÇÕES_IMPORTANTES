@@ -1,0 +1,4 @@
+azul dos botoes #337ab7
+
+SEMPRE TEM QUE VERIFICAR O NOME DO BANCO DE DAODS;
+VERIFICAR NO .htaccess RewriteRule ^(.*)$ /sage_loja/index.php?q=$1 [QSA,L] O NOME DO DIRETORIO
