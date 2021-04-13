@@ -6,7 +6,7 @@ class controller {
 
 	public function __construct() {
 		global $config;
-		$this->lang = New Language(); //CARREGA O TRADUTO
+		$this->lang = New Language(); //CARREGA O TRADUTOR
 	}
 	
 	//TRAZ OS DADOS PARA O TEMPLATE

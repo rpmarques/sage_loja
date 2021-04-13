@@ -2,3 +2,12 @@ azul dos botoes #337ab7
 
 SEMPRE TEM QUE VERIFICAR O NOME DO BANCO DE DAODS;
 VERIFICAR NO .htaccess RewriteRule ^(.*)$ /sage_loja/index.php?q=$1 [QSA,L] O NOME DO DIRETORIO
+
+****************
+SERVIÇO DE EMAIL EM MASSA
+mailchimp.com
+
+/* PAGSEGURO */
+composer require pagseguro/pagseguro-php-sdk
+
+/* GITHUB  */

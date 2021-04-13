@@ -13,7 +13,9 @@ class categoriesController extends controller {
 
     //O $ID VEM POR GET
     public function enter($rId){
-        $dados = array();
+        $store = new Store();
+        //$dados = array(); //ESSE AQUI É QUE EU MANDO OS DADOS PARA AS VIEWs
+        $dados = $store->getTemplateData();
         $categories = new Categories();
         $products = new Products();
         $_filters = New Filters();
@@ -38,7 +40,6 @@ class categoriesController extends controller {
 
             // DADOS PARA MONTAR A VIEW
             $dados['category_filter'] = $categories->getCategoryTree($rId);
-            $dados['categories'] = $categories->getList(); 
             $dados['list'] = $products->getList($inicioPaginacao,$qtdePorPagina,$filtros); 
             $dados['totalItens'] = $products->getTotal($filtros);
             // FAÇO ESSA DIVISÃO PRA SABER QNTAS PÁGINAS VOU TER
@@ -47,8 +48,9 @@ class categoriesController extends controller {
 
             $dados['id_category'] = $rId;
 
-            // FILTROS
-            $dados['filters'] = $_filters->getFilters($filters);
+
+
+            $dados['sidebar'] = true;
 
             $this->loadTemplate('categories',$dados);
         }else{

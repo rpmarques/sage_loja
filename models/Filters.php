@@ -6,10 +6,13 @@ class Filters extends model {
         $brands = new Brands();
         $products = new Products();
 
+        // esse array tem a estrutura de todas os filtros
+        // é nele que o sistema faz a filtragem e devolve pro template
         $array = array(
             'brands' =>array(),
+            'textoBuscado' => '',
             'slidermin' => 0, //TRAZ O VALOR MÍNIMO DO SLIDER
-            'slidermax' => 1000, //TRAZ O VALOR MÁXIMO DO SLIDER
+            'slidermax' => 0, //TRAZ O VALOR MÁXIMO DO SLIDER
             'slider0' => 0,
             'slider1' => 0,
             'stars' => array(
@@ -23,6 +26,11 @@ class Filters extends model {
             'sale' =>0,
             'options' =>array()
         );
+
+        //FILTROS
+        if (isset($rFiltros['textoBusca'])){
+            $array['textoBuscado'] = $rFiltros['textoBusca'];
+        }
 
         //TODAS AS MARCAS    
         $array['brands'] = $brands->getList();
@@ -58,12 +66,11 @@ class Filters extends model {
 
         //MAIOR PREÇO         
         $array['slidermax'] = $products->pegaMaiorPreco($rFiltros);
-        if($array['slider1'] == 0){
-            
+        if($array['slider1'] == '0'){
             $array['slider1'] = $array['slidermax'];
         }
         //MENOR PREÇO 
-        $array['slidermin'] = $products->pegaMenorPreco($rFiltros);
+        //$array['slidermin'] = $products->pegaMenorPreco($rFiltros);
 
         //AVALIAÇÃO (estrelas)
         $star_products = $products->pegaListaEstrelas($rFiltros);

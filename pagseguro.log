@@ -1,0 +1,1050 @@
+
+07/04/2021 15:12:38 PagSeguro.Session[info]: Begin
+07/04/2021 15:12:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:12:40 PagSeguro.Session[info]: Session ID: b2abfe06537d4bcfb41837f4ce8b92b3
+07/04/2021 15:12:44 PagSeguro.Session[info]: Begin
+07/04/2021 15:12:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:12:45 PagSeguro.Session[info]: Session ID: 9dc5014420044645972d17cbb5ebba24
+07/04/2021 15:16:53 PagSeguro.Session[info]: Begin
+07/04/2021 15:16:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:16:54 PagSeguro.Session[info]: Session ID: 30dd87dcf7ae45b8b961e2d225f0e3cd
+07/04/2021 15:19:01 PagSeguro.Session[info]: Begin
+07/04/2021 15:19:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:19:02 PagSeguro.Session[info]: Session ID: 492dd6dfcdb1457bb1e26c3f404e9a60
+07/04/2021 15:19:14 PagSeguro.Session[info]: Begin
+07/04/2021 15:19:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:19:14 PagSeguro.Session[info]: Session ID: 1497d895d8e0439f857e84b9b5fc2f5f
+07/04/2021 15:25:39 PagSeguro.Session[info]: Begin
+07/04/2021 15:25:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:25:40 PagSeguro.Session[info]: Session ID: 96ddb5b7933b43c5b894bc4e42e5230d
+07/04/2021 15:31:12 PagSeguro.Session[info]: Begin
+07/04/2021 15:31:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:31:13 PagSeguro.Session[info]: Session ID: 07c374e0761c4093be7f92ef57a2f349
+07/04/2021 15:42:28 PagSeguro.Session[info]: Begin
+07/04/2021 15:42:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:42:29 PagSeguro.Session[info]: Session ID: d54320e9a2d24c20957a6220b5124b01
+07/04/2021 15:42:52 PagSeguro.Session[info]: Begin
+07/04/2021 15:42:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:42:52 PagSeguro.Session[info]: Session ID: 16ddb9bb236d48acb29a2360d9e3f1ae
+07/04/2021 15:48:40 PagSeguro.Session[info]: Begin
+07/04/2021 15:48:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:48:41 PagSeguro.Session[info]: Session ID: de257154cd5c4efeb06c0358e8757b8f
+07/04/2021 15:53:43 PagSeguro.Session[info]: Begin
+07/04/2021 15:53:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:53:43 PagSeguro.Session[info]: Session ID: 67b973c3b1f34d46bba64784795e51af
+07/04/2021 15:54:19 PagSeguro.Session[info]: Begin
+07/04/2021 15:54:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:54:20 PagSeguro.Session[info]: Session ID: af6b464d27554c85b87b3b2f67506532
+07/04/2021 15:56:17 PagSeguro.Session[info]: Begin
+07/04/2021 15:56:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:56:18 PagSeguro.Session[info]: Session ID: 539d4916e54d4137a003628d9eacc9ee
+07/04/2021 15:57:28 PagSeguro.Session[info]: Begin
+07/04/2021 15:57:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:57:29 PagSeguro.Session[info]: Session ID: 442b4f86d3f8479dadf6c189a735144e
+07/04/2021 15:57:39 PagSeguro.Session[info]: Begin
+07/04/2021 15:57:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:57:39 PagSeguro.Session[info]: Session ID: e23dcc3fc1a74ae2ab04583da1615325
+07/04/2021 15:59:37 PagSeguro.Session[info]: Begin
+07/04/2021 15:59:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 15:59:37 PagSeguro.Session[info]: Session ID: 71391322f0f6498d80b21412960540d7
+07/04/2021 16:02:01 PagSeguro.Session[info]: Begin
+07/04/2021 16:02:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:02:31 PagSeguro.Session[error]: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>504 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+CloudFront attempted to establish a connection with the origin, but either the attempt failed or the origin closed the connection.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: EdVU973kaIscwFWAbFBal3XB99zGUfrX8ArP0GP0zGCw5Z0duEeMmA==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+07/04/2021 16:02:39 PagSeguro.Session[info]: Begin
+07/04/2021 16:02:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:02:40 PagSeguro.Session[info]: Session ID: 1f2b1f5cd95441a3b733f3214094aac5
+07/04/2021 16:15:35 PagSeguro.Session[info]: Begin
+07/04/2021 16:15:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:15:36 PagSeguro.Session[info]: Session ID: 873ff5545a1b4c42b344af1423e58f19
+07/04/2021 16:22:47 PagSeguro.Session[info]: Begin
+07/04/2021 16:22:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:22:48 PagSeguro.Session[info]: Session ID: d1018c40163e4ec4bf53b7024e9b7929
+07/04/2021 16:23:13 PagSeguro.Session[info]: Begin
+07/04/2021 16:23:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:23:14 PagSeguro.Session[info]: Session ID: 1529b712c7cc402582b75466512bd943
+07/04/2021 16:23:52 PagSeguro.Session[info]: Begin
+07/04/2021 16:23:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:23:53 PagSeguro.Session[info]: Session ID: 06edc8a326f04299b259c575c4fbe685
+07/04/2021 16:25:23 PagSeguro.Session[info]: Begin
+07/04/2021 16:25:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:25:24 PagSeguro.Session[info]: Session ID: 2d6115b676b644a1938215f429e947c7
+07/04/2021 16:27:00 PagSeguro.Session[info]: Begin
+07/04/2021 16:27:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:27:00 PagSeguro.Session[info]: Session ID: 46791a1a88134b68b58243a8b288573c
+07/04/2021 16:28:24 PagSeguro.Session[info]: Begin
+07/04/2021 16:28:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:28:25 PagSeguro.Session[info]: Session ID: a31381ab9d0f4095ac0920d2a5115ef5
+07/04/2021 16:30:45 PagSeguro.Session[info]: Begin
+07/04/2021 16:30:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:30:46 PagSeguro.Session[info]: Session ID: 279f01b9893a4fb19e33d609ceef3174
+07/04/2021 16:32:02 PagSeguro.Session[info]: Begin
+07/04/2021 16:32:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:32:32 PagSeguro.Session[info]: Session ID: 8e21789d2e9e48c6a680ff575a0236d0
+07/04/2021 16:32:52 PagSeguro.Session[info]: Begin
+07/04/2021 16:32:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:32:53 PagSeguro.Session[info]: Session ID: 696b3bab7cb9460ca6561885f253b57e
+07/04/2021 16:33:21 PagSeguro.Session[info]: Begin
+07/04/2021 16:33:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:33:21 PagSeguro.Session[info]: Session ID: fcef115cf95a4cd6aed4e3c047bb798c
+07/04/2021 16:52:20 PagSeguro.Session[info]: Begin
+07/04/2021 16:52:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:52:21 PagSeguro.Session[info]: Session ID: c905ac3d569a4a2cb7b52c48516f45f3
+07/04/2021 16:52:56 PagSeguro.Session[info]: Begin
+07/04/2021 16:52:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:52:56 PagSeguro.Session[info]: Session ID: 679f9a7778854b609beaa14484f04e4d
+07/04/2021 16:53:49 PagSeguro.Session[info]: Begin
+07/04/2021 16:53:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 16:53:50 PagSeguro.Session[info]: Session ID: 00e7cdf096f34305b5b3c62059a4ac35
+07/04/2021 19:31:01 PagSeguro.Session[info]: Begin
+07/04/2021 19:31:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 19:31:03 PagSeguro.Session[info]: Session ID: 1f2b1b7b1883440e9084d0e01e16bc67
+07/04/2021 19:31:43 PagSeguro.Session[info]: Begin
+07/04/2021 19:31:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 19:31:44 PagSeguro.Session[info]: Session ID: 2c417cdd6d9f4fa7aa1b7cee65d037a2
+07/04/2021 19:33:30 PagSeguro.Session[info]: Begin
+07/04/2021 19:33:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 19:33:31 PagSeguro.Session[info]: Session ID: 9d8b0d35a7674c37abb0455c7e6c9869
+07/04/2021 19:35:51 PagSeguro.Session[info]: Begin
+07/04/2021 19:35:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 19:35:52 PagSeguro.Session[info]: Session ID: 4eeb454568084102be85c03a648612b4
+07/04/2021 19:47:02 PagSeguro.Session[info]: Begin
+07/04/2021 19:47:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 19:47:05 PagSeguro.Session[info]: Session ID: 0d91c74917c3479687b717e20dc1f787
+07/04/2021 19:47:30 PagSeguro.Session[info]: Begin
+07/04/2021 19:47:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 19:47:31 PagSeguro.Session[info]: Session ID: 5d4184252636454a98af09d763eed345
+07/04/2021 19:50:14 PagSeguro.Session[info]: Begin
+07/04/2021 19:50:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 19:50:14 PagSeguro.Session[info]: Session ID: 04b54435b00a422c9f9f9d616d125252
+07/04/2021 20:07:13 PagSeguro.Session[info]: Begin
+07/04/2021 20:07:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 20:07:14 PagSeguro.Session[info]: Session ID: 8c87ebe1eb6c4f7da1ff794993fce4d3
+07/04/2021 20:18:59 PagSeguro.Session[info]: Begin
+07/04/2021 20:19:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 20:19:02 PagSeguro.Session[info]: Session ID: 54c3d423922748fbb3b407165c493deb
+07/04/2021 20:24:07 PagSeguro.Session[info]: Begin
+07/04/2021 20:24:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 20:24:13 PagSeguro.Session[info]: Session ID: a61710b3b3f04b708b037d6150d8abb8
+07/04/2021 20:36:03 PagSeguro.Session[info]: Begin
+07/04/2021 20:36:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 20:36:05 PagSeguro.Session[info]: Session ID: baf7c0d574d840a0a5ef066bba8157c8
+07/04/2021 20:36:40 PagSeguro.Session[info]: Begin
+07/04/2021 20:36:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 20:36:41 PagSeguro.Session[info]: Session ID: bb979ed4b9aa47dca98d279692e03908
+07/04/2021 20:53:02 PagSeguro.Session[info]: Begin
+07/04/2021 20:53:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 20:53:03 PagSeguro.Session[info]: Session ID: e5a76e19ccb1456dbfc90f8ff3191126
+07/04/2021 20:56:39 PagSeguro.Session[info]: Begin
+07/04/2021 20:56:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 20:56:39 PagSeguro.Session[info]: Session ID: a17d1ca588bc43b6af5ed318996e24b7
+07/04/2021 20:57:42 PagSeguro.Session[info]: Begin
+07/04/2021 20:57:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 20:57:43 PagSeguro.Session[info]: Session ID: ce1b7286789d46f2877bec541b8d4fba
+07/04/2021 20:58:01 PagSeguro.Session[info]: Begin
+07/04/2021 20:58:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 20:58:01 PagSeguro.Session[info]: Session ID: 258f3f4889694d7696eeed81ddd69f8f
+07/04/2021 21:04:22 PagSeguro.Session[info]: Begin
+07/04/2021 21:04:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:04:22 PagSeguro.Session[info]: Session ID: f16730f4757e43c298efe98682427f13
+07/04/2021 21:05:31 PagSeguro.Session[info]: Begin
+07/04/2021 21:05:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:05:32 PagSeguro.Session[info]: Session ID: adb78f5293684196a00d0bc39739d443
+07/04/2021 21:06:34 PagSeguro.Session[info]: Begin
+07/04/2021 21:06:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:06:35 PagSeguro.Session[info]: Session ID: f87ba255253a465ea13f925495c17219
+07/04/2021 21:44:58 PagSeguro.Session[info]: Begin
+07/04/2021 21:44:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:44:59 PagSeguro.Session[info]: Session ID: 11b74c33a87c4b1d8067ef4d0c24c329
+07/04/2021 21:45:15 PagSeguro.Session[info]: Begin
+07/04/2021 21:45:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:45:16 PagSeguro.Session[info]: Session ID: 8c5374b9facc4f2b9f1bbb12d6ecf999
+07/04/2021 21:47:07 PagSeguro.Session[info]: Begin
+07/04/2021 21:47:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:47:08 PagSeguro.Session[info]: Session ID: 61190a4817f243e187e2aaa10229d989
+07/04/2021 21:47:39 PagSeguro.Session[info]: Begin
+07/04/2021 21:47:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:47:39 PagSeguro.Session[info]: Session ID: f341ec71fd5047a8a0985ab48051147d
+07/04/2021 21:49:06 PagSeguro.Session[info]: Begin
+07/04/2021 21:49:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:49:06 PagSeguro.Session[info]: Session ID: 49210b2611194ff1996fdb883bf813c5
+07/04/2021 21:51:06 PagSeguro.Session[info]: Begin
+07/04/2021 21:51:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:51:07 PagSeguro.Session[info]: Session ID: dac5605529974633bc84145a0f708287
+07/04/2021 21:51:39 PagSeguro.Session[info]: Begin
+07/04/2021 21:51:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:51:40 PagSeguro.Session[info]: Session ID: d115e2cf1c4e48e7997d89331d839834
+07/04/2021 21:52:39 PagSeguro.Session[info]: Begin
+07/04/2021 21:52:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 21:52:40 PagSeguro.Session[info]: Session ID: 1a856f105d46487faba18567a98e1616
+07/04/2021 22:02:50 PagSeguro.Session[info]: Begin
+07/04/2021 22:02:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+07/04/2021 22:02:51 PagSeguro.Session[info]: Session ID: a18f882f0cdf41bb9cc6fb004627d024
+08/04/2021 14:01:33 PagSeguro.Session[info]: Begin
+08/04/2021 14:01:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 14:01:35 PagSeguro.Session[info]: Session ID: 3cb570e4db1f4988b3925cee7d120d9e
+08/04/2021 14:02:44 PagSeguro.Session[info]: Begin
+08/04/2021 14:02:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 14:02:45 PagSeguro.Session[info]: Session ID: e013dd10b9d94bed8ff08fc9e6ae4f83
+08/04/2021 15:39:14 PagSeguro.Session[info]: Begin
+08/04/2021 15:39:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 15:39:15 PagSeguro.Session[info]: Session ID: 6f654d01447d45a3b4b89445db18e845
+08/04/2021 15:39:19 PagSeguro.Session[info]: Begin
+08/04/2021 15:39:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 15:39:19 PagSeguro.Session[info]: Session ID: 1903b759d04b4099af5a316ca1f4bc5d
+08/04/2021 15:57:22 PagSeguro.Session[info]: Begin
+08/04/2021 15:57:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 15:57:23 PagSeguro.Session[info]: Session ID: 78951d1b6b754afb872b9d36a7ebf064
+08/04/2021 16:09:27 PagSeguro.Session[info]: Begin
+08/04/2021 16:09:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:09:28 PagSeguro.Session[info]: Session ID: 2c23304e9e92419a9e276371e02e72b0
+08/04/2021 16:25:46 PagSeguro.Session[info]: Begin
+08/04/2021 16:25:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:25:47 PagSeguro.Session[info]: Session ID: c1157373e006474383195a9edcc836d0
+08/04/2021 16:25:59 PagSeguro.Session[info]: Begin
+08/04/2021 16:25:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:26:00 PagSeguro.Session[info]: Session ID: 5919220daae9437c9e7b7d34f6266c60
+08/04/2021 16:26:19 PagSeguro.Session[info]: Begin
+08/04/2021 16:26:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:26:20 PagSeguro.Session[info]: Session ID: 60b75c075a524018967239d441dc7c78
+08/04/2021 16:26:33 PagSeguro.Session[info]: Begin
+08/04/2021 16:26:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:26:33 PagSeguro.Session[info]: Session ID: 42bd62e281f342f586a23d2de2349720
+08/04/2021 16:26:41 PagSeguro.Session[info]: Begin
+08/04/2021 16:26:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:26:42 PagSeguro.Session[info]: Session ID: e1e35f3c8b804e08a078a44922787a28
+08/04/2021 16:45:57 PagSeguro.Session[info]: Begin
+08/04/2021 16:45:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:45:57 PagSeguro.Session[info]: Session ID: 44c58e3140c8491fb7764460a28536a0
+08/04/2021 16:46:13 PagSeguro.Session[info]: Begin
+08/04/2021 16:46:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:46:14 PagSeguro.Session[info]: Session ID: e9e1fae8fbe2458e88340121c31045f6
+08/04/2021 16:56:00 PagSeguro.Session[info]: Begin
+08/04/2021 16:56:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:56:01 PagSeguro.Session[info]: Session ID: 541b1ca39f9a4ee5be834ea07782c494
+08/04/2021 16:58:31 PagSeguro.Session[info]: Begin
+08/04/2021 16:58:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:58:32 PagSeguro.Session[info]: Session ID: 6775828d3d174d5286fc4a59aa7f4fe2
+08/04/2021 16:59:13 PagSeguro.Session[info]: Begin
+08/04/2021 16:59:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 16:59:14 PagSeguro.Session[info]: Session ID: f0fb79a17e094dcf890ac49c4b337570
+08/04/2021 19:15:56 PagSeguro.Session[info]: Begin
+08/04/2021 19:15:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 19:15:58 PagSeguro.Session[info]: Session ID: dce95a42308d4a6fb8360780a393ac72
+08/04/2021 19:17:16 PagSeguro.Session[info]: Begin
+08/04/2021 19:17:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 19:17:17 PagSeguro.Session[info]: Session ID: 1f19c940874b415f8605858812e27772
+08/04/2021 19:18:02 PagSeguro.Session[info]: Begin
+08/04/2021 19:18:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 19:18:03 PagSeguro.Session[info]: Session ID: 97d72ad05c1045f7ac93271b86fe1e98
+08/04/2021 22:14:37 PagSeguro.Session[info]: Begin
+08/04/2021 22:14:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:14:38 PagSeguro.Session[info]: Session ID: 290fa1517d514b52b186bc64e1d22f42
+08/04/2021 22:14:44 PagSeguro.Session[info]: Begin
+08/04/2021 22:14:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:14:44 PagSeguro.Session[info]: Session ID: e1f1665046d643ec9ac5e1ef53ff7695
+08/04/2021 22:27:41 PagSeguro.Session[info]: Begin
+08/04/2021 22:27:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:27:42 PagSeguro.Session[info]: Session ID: 9ed578d55cfd423096f8e3722423061c
+08/04/2021 22:27:45 PagSeguro.Session[info]: Begin
+08/04/2021 22:27:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:27:46 PagSeguro.Session[info]: Session ID: cc990dfe91b94654842a2170ccb9732e
+08/04/2021 22:33:45 PagSeguro.Session[info]: Begin
+08/04/2021 22:33:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:33:46 PagSeguro.Session[info]: Session ID: 9693f9f7dba24fdfb8514023ea4a9c48
+08/04/2021 22:37:42 PagSeguro.Session[info]: Begin
+08/04/2021 22:37:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:37:43 PagSeguro.Session[info]: Session ID: 169b1f30b7e04d00b37175976d2dfeb7
+08/04/2021 22:53:50 PagSeguro.Session[info]: Begin
+08/04/2021 22:53:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:53:51 PagSeguro.Session[info]: Session ID: e0d1ed4201aa4706920309a93ab8c68b
+08/04/2021 22:55:56 PagSeguro.Session[info]: Begin
+08/04/2021 22:55:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:55:57 PagSeguro.Session[info]: Session ID: adb762bfccb14936ab19b63c582d9e3b
+08/04/2021 22:56:17 PagSeguro.Session[info]: Begin
+08/04/2021 22:56:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:56:18 PagSeguro.Session[info]: Session ID: 8975e3dd04544925bcb37e68da4a63c6
+08/04/2021 22:58:41 PagSeguro.Session[info]: Begin
+08/04/2021 22:58:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 22:58:42 PagSeguro.Session[info]: Session ID: 92d7807a91da4de8b74c53b1f25a9c04
+08/04/2021 23:00:20 PagSeguro.Session[info]: Begin
+08/04/2021 23:00:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 23:00:21 PagSeguro.Session[info]: Session ID: a455aae05ed5403b93027da117652823
+08/04/2021 23:00:51 PagSeguro.Session[info]: Begin
+08/04/2021 23:00:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 23:00:51 PagSeguro.Session[info]: Session ID: ba83e74d7b0e41fb8e516d2cc766afc2
+08/04/2021 23:02:31 PagSeguro.Session[info]: Begin
+08/04/2021 23:02:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 23:02:32 PagSeguro.Session[info]: Session ID: 6c716dadca594d298fd00d98ee770668
+08/04/2021 23:11:59 PagSeguro.Session[info]: Begin
+08/04/2021 23:11:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 23:12:00 PagSeguro.Session[info]: Session ID: 9929903f967e4e3abb426bd3d43023e9
+08/04/2021 23:22:32 PagSeguro.Session[info]: Begin
+08/04/2021 23:22:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 23:22:32 PagSeguro.Session[error]: <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    	<meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1" />
+    	<meta http-equiv="content-language" content="pt-BR" />
+    	<meta http-equiv="cache-control" content="no-cache,no-store" />
+    	<meta http-equiv="pragma" content="no-cache" />
+    	<meta http-equiv="expires" content="Mon, 22 jul 2006 11:12:01 GMT" />
+    	<meta name="description" content="" />
+    	
+    	<meta name="robots" content="noindex,nofollow" />
+    	
+    	<title>PagSeguro Sandbox - Não foi possível exibir a página</title>
+		
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/bundles/lib.ibanking.scss" />
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/commons/widgets/pagseguro.alerts.css" />
+        <link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/sandbox/maintenance.css" />
+
+		<link rel="Shortcut Icon" href="https://stc.pagseguro.uol.com.br/pagseguro/i/favicon.ico" type="image/x-icon" />
+    	
+    	<!--[if lt IE 9]>
+    		<script src="https://stc.pagseguro.uol.com.br/pagseguro/j/etc/google/html5.js"></script>
+    	<![endif]-->
+    </head>
+	<body>
+		<div id="message">
+			<h1>
+				<a href="/" title="PagSeguro Sandbox">
+                    <img src="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/i/sandbox/common/logo/300x50.png" alt="PagSeguro Sandbox" />
+				</a>
+        	</h1>
+			
+			<div id="content">
+				<div class="uolMsg uolMsg-large uolMsg-alert">
+					<dl>
+						<dt>Ops! Houve um problema e não foi possível exibir a página</dt>
+						<dd>Nossa equipe acabou de receber um alerta avisando sobre o ocorrido.<br />Por favor, tente novamente mais tarde.</dd>
+					</dl>
+				</div>
+			</div>
+
+			<small>Dúvidas? Acesse: <a href="https://pagseguro.uol.com.br/atendimento" title="PagSeguro - Atendimento">http://www.pagseguro.com.br/atendimento</a></small>
+		</div>
+	</body>
+</html>
+
+08/04/2021 23:22:39 PagSeguro.Session[info]: Begin
+08/04/2021 23:22:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 23:22:40 PagSeguro.Session[error]: <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    	<meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1" />
+    	<meta http-equiv="content-language" content="pt-BR" />
+    	<meta http-equiv="cache-control" content="no-cache,no-store" />
+    	<meta http-equiv="pragma" content="no-cache" />
+    	<meta http-equiv="expires" content="Mon, 22 jul 2006 11:12:01 GMT" />
+    	<meta name="description" content="" />
+    	
+    	<meta name="robots" content="noindex,nofollow" />
+    	
+    	<title>PagSeguro Sandbox - Não foi possível exibir a página</title>
+		
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/bundles/lib.ibanking.scss" />
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/commons/widgets/pagseguro.alerts.css" />
+        <link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/sandbox/maintenance.css" />
+
+		<link rel="Shortcut Icon" href="https://stc.pagseguro.uol.com.br/pagseguro/i/favicon.ico" type="image/x-icon" />
+    	
+    	<!--[if lt IE 9]>
+    		<script src="https://stc.pagseguro.uol.com.br/pagseguro/j/etc/google/html5.js"></script>
+    	<![endif]-->
+    </head>
+	<body>
+		<div id="message">
+			<h1>
+				<a href="/" title="PagSeguro Sandbox">
+                    <img src="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/i/sandbox/common/logo/300x50.png" alt="PagSeguro Sandbox" />
+				</a>
+        	</h1>
+			
+			<div id="content">
+				<div class="uolMsg uolMsg-large uolMsg-alert">
+					<dl>
+						<dt>Ops! Houve um problema e não foi possível exibir a página</dt>
+						<dd>Nossa equipe acabou de receber um alerta avisando sobre o ocorrido.<br />Por favor, tente novamente mais tarde.</dd>
+					</dl>
+				</div>
+			</div>
+
+			<small>Dúvidas? Acesse: <a href="https://pagseguro.uol.com.br/atendimento" title="PagSeguro - Atendimento">http://www.pagseguro.com.br/atendimento</a></small>
+		</div>
+	</body>
+</html>
+
+08/04/2021 23:22:45 PagSeguro.Session[info]: Begin
+08/04/2021 23:22:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 23:22:46 PagSeguro.Session[error]: <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    	<meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1" />
+    	<meta http-equiv="content-language" content="pt-BR" />
+    	<meta http-equiv="cache-control" content="no-cache,no-store" />
+    	<meta http-equiv="pragma" content="no-cache" />
+    	<meta http-equiv="expires" content="Mon, 22 jul 2006 11:12:01 GMT" />
+    	<meta name="description" content="" />
+    	
+    	<meta name="robots" content="noindex,nofollow" />
+    	
+    	<title>PagSeguro Sandbox - Não foi possível exibir a página</title>
+		
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/bundles/lib.ibanking.scss" />
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/commons/widgets/pagseguro.alerts.css" />
+        <link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/sandbox/maintenance.css" />
+
+		<link rel="Shortcut Icon" href="https://stc.pagseguro.uol.com.br/pagseguro/i/favicon.ico" type="image/x-icon" />
+    	
+    	<!--[if lt IE 9]>
+    		<script src="https://stc.pagseguro.uol.com.br/pagseguro/j/etc/google/html5.js"></script>
+    	<![endif]-->
+    </head>
+	<body>
+		<div id="message">
+			<h1>
+				<a href="/" title="PagSeguro Sandbox">
+                    <img src="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/i/sandbox/common/logo/300x50.png" alt="PagSeguro Sandbox" />
+				</a>
+        	</h1>
+			
+			<div id="content">
+				<div class="uolMsg uolMsg-large uolMsg-alert">
+					<dl>
+						<dt>Ops! Houve um problema e não foi possível exibir a página</dt>
+						<dd>Nossa equipe acabou de receber um alerta avisando sobre o ocorrido.<br />Por favor, tente novamente mais tarde.</dd>
+					</dl>
+				</div>
+			</div>
+
+			<small>Dúvidas? Acesse: <a href="https://pagseguro.uol.com.br/atendimento" title="PagSeguro - Atendimento">http://www.pagseguro.com.br/atendimento</a></small>
+		</div>
+	</body>
+</html>
+
+08/04/2021 23:23:36 PagSeguro.Session[info]: Begin
+08/04/2021 23:23:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 23:23:36 PagSeguro.Session[error]: <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    	<meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1" />
+    	<meta http-equiv="content-language" content="pt-BR" />
+    	<meta http-equiv="cache-control" content="no-cache,no-store" />
+    	<meta http-equiv="pragma" content="no-cache" />
+    	<meta http-equiv="expires" content="Mon, 22 jul 2006 11:12:01 GMT" />
+    	<meta name="description" content="" />
+    	
+    	<meta name="robots" content="noindex,nofollow" />
+    	
+    	<title>PagSeguro Sandbox - Não foi possível exibir a página</title>
+		
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/bundles/lib.ibanking.scss" />
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/commons/widgets/pagseguro.alerts.css" />
+        <link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/sandbox/maintenance.css" />
+
+		<link rel="Shortcut Icon" href="https://stc.pagseguro.uol.com.br/pagseguro/i/favicon.ico" type="image/x-icon" />
+    	
+    	<!--[if lt IE 9]>
+    		<script src="https://stc.pagseguro.uol.com.br/pagseguro/j/etc/google/html5.js"></script>
+    	<![endif]-->
+    </head>
+	<body>
+		<div id="message">
+			<h1>
+				<a href="/" title="PagSeguro Sandbox">
+                    <img src="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/i/sandbox/common/logo/300x50.png" alt="PagSeguro Sandbox" />
+				</a>
+        	</h1>
+			
+			<div id="content">
+				<div class="uolMsg uolMsg-large uolMsg-alert">
+					<dl>
+						<dt>Ops! Houve um problema e não foi possível exibir a página</dt>
+						<dd>Nossa equipe acabou de receber um alerta avisando sobre o ocorrido.<br />Por favor, tente novamente mais tarde.</dd>
+					</dl>
+				</div>
+			</div>
+
+			<small>Dúvidas? Acesse: <a href="https://pagseguro.uol.com.br/atendimento" title="PagSeguro - Atendimento">http://www.pagseguro.com.br/atendimento</a></small>
+		</div>
+	</body>
+</html>
+
+08/04/2021 23:26:47 PagSeguro.Session[info]: Begin
+08/04/2021 23:26:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+08/04/2021 23:26:48 PagSeguro.Session[error]: <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    	<meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1" />
+    	<meta http-equiv="content-language" content="pt-BR" />
+    	<meta http-equiv="cache-control" content="no-cache,no-store" />
+    	<meta http-equiv="pragma" content="no-cache" />
+    	<meta http-equiv="expires" content="Mon, 22 jul 2006 11:12:01 GMT" />
+    	<meta name="description" content="" />
+    	
+    	<meta name="robots" content="noindex,nofollow" />
+    	
+    	<title>PagSeguro Sandbox - Não foi possível exibir a página</title>
+		
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/bundles/lib.ibanking.scss" />
+		<link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/commons/widgets/pagseguro.alerts.css" />
+        <link rel="stylesheet" type="text/css" href="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/c/lib/sandbox/maintenance.css" />
+
+		<link rel="Shortcut Icon" href="https://stc.pagseguro.uol.com.br/pagseguro/i/favicon.ico" type="image/x-icon" />
+    	
+    	<!--[if lt IE 9]>
+    		<script src="https://stc.pagseguro.uol.com.br/pagseguro/j/etc/google/html5.js"></script>
+    	<![endif]-->
+    </head>
+	<body>
+		<div id="message">
+			<h1>
+				<a href="/" title="PagSeguro Sandbox">
+                    <img src="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/i/sandbox/common/logo/300x50.png" alt="PagSeguro Sandbox" />
+				</a>
+        	</h1>
+			
+			<div id="content">
+				<div class="uolMsg uolMsg-large uolMsg-alert">
+					<dl>
+						<dt>Ops! Houve um problema e não foi possível exibir a página</dt>
+						<dd>Nossa equipe acabou de receber um alerta avisando sobre o ocorrido.<br />Por favor, tente novamente mais tarde.</dd>
+					</dl>
+				</div>
+			</div>
+
+			<small>Dúvidas? Acesse: <a href="https://pagseguro.uol.com.br/atendimento" title="PagSeguro - Atendimento">http://www.pagseguro.com.br/atendimento</a></small>
+		</div>
+	</body>
+</html>
+
+09/04/2021 20:57:19 PagSeguro.Session[info]: Begin
+09/04/2021 20:57:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 20:57:21 PagSeguro.Session[info]: Session ID: 2a2ffe2add1b4b8eb96227dfa1e58efe
+09/04/2021 20:59:47 PagSeguro.Session[info]: Begin
+09/04/2021 20:59:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 20:59:47 PagSeguro.Session[info]: Session ID: afa73e06d5e6490bb90c8fcd0b71e3e6
+09/04/2021 21:00:22 PagSeguro.Session[info]: Begin
+09/04/2021 21:00:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 21:00:23 PagSeguro.Session[info]: Session ID: 4ae549e6b31c4ae6b939dc0f55ed9a80
+09/04/2021 22:08:12 PagSeguro.Session[info]: Begin
+09/04/2021 22:08:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:08:12 PagSeguro.Session[info]: Session ID: 13df96df9a11412f96738713aa8531fc
+09/04/2021 22:10:17 PagSeguro.Session[info]: Begin
+09/04/2021 22:10:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:10:18 PagSeguro.Session[info]: Session ID: 748f4f65b7df4f15bee4f073381267cb
+09/04/2021 22:11:58 PagSeguro.Session[info]: Begin
+09/04/2021 22:11:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:11:59 PagSeguro.Session[info]: Session ID: 0dad20d60af04a2aad01ef9a59a45926
+09/04/2021 22:13:35 PagSeguro.Session[info]: Begin
+09/04/2021 22:13:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:13:36 PagSeguro.Session[info]: Session ID: 180f568c60aa4730bdcaa481ba7d8327
+09/04/2021 22:14:54 PagSeguro.Session[info]: Begin
+09/04/2021 22:14:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:14:55 PagSeguro.Session[info]: Session ID: 2581298e7a6f49d281195ad37570701e
+09/04/2021 22:16:28 PagSeguro.Session[info]: Begin
+09/04/2021 22:16:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:16:29 PagSeguro.Session[info]: Session ID: 578702a1f8a14a85bbca69cf49b4ccf9
+09/04/2021 22:17:43 PagSeguro.Session[info]: Begin
+09/04/2021 22:17:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:17:44 PagSeguro.Session[info]: Session ID: 1e1bf4f2185f43f087166c8d654cec44
+09/04/2021 22:26:08 PagSeguro.Session[info]: Begin
+09/04/2021 22:26:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:26:08 PagSeguro.Session[info]: Session ID: cc310ff05be444269ad8a7fcd5981c01
+09/04/2021 22:27:23 PagSeguro.Session[info]: Begin
+09/04/2021 22:27:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:27:24 PagSeguro.Session[info]: Session ID: 4c4bcf27fd4649c18bdb0dd83f6ced33
+09/04/2021 22:29:06 PagSeguro.Session[info]: Begin
+09/04/2021 22:29:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:29:07 PagSeguro.Session[info]: Session ID: 43c9cfab6d0b4371a630df199b3b51db
+09/04/2021 22:31:29 PagSeguro.Session[info]: Begin
+09/04/2021 22:31:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:31:30 PagSeguro.Session[info]: Session ID: 85213aadcb02417c9ab39b0b3893321a
+09/04/2021 22:33:12 PagSeguro.Session[info]: Begin
+09/04/2021 22:33:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:33:13 PagSeguro.Session[info]: Session ID: 619f6b79f45e4ad8bbbd40a0563337d1
+09/04/2021 22:34:25 PagSeguro.Session[info]: Begin
+09/04/2021 22:34:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:34:27 PagSeguro.Session[info]: Session ID: 6a97d41433514ec390eb8ab057f1e513
+09/04/2021 22:35:18 PagSeguro.Session[info]: Begin
+09/04/2021 22:35:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:35:18 PagSeguro.Session[info]: Session ID: 52e35c010b5048e1a5a076c2c432b8fe
+09/04/2021 22:37:28 PagSeguro.Session[info]: Begin
+09/04/2021 22:37:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:37:29 PagSeguro.Session[info]: Session ID: 98d305a6094a4502a389aa59b95325e4
+09/04/2021 22:39:31 PagSeguro.Session[info]: Begin
+09/04/2021 22:39:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:39:32 PagSeguro.Session[info]: Session ID: a337ef8d25ce41989ef72fa6f3d66200
+09/04/2021 22:42:05 PagSeguro.Session[info]: Begin
+09/04/2021 22:42:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:42:35 PagSeguro.Session[error]: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>504 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+CloudFront attempted to establish a connection with the origin, but either the attempt failed or the origin closed the connection.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: uGpdYtmwZZ0Z61m1HYUvUwSmNJEloKUwUzBuz_BCvKxcmBBSXpJJOQ==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+09/04/2021 22:42:42 PagSeguro.Session[info]: Begin
+09/04/2021 22:42:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:42:53 PagSeguro.Session[info]: Session ID: 99618494c9a24d659c861ee178b758c1
+09/04/2021 22:43:59 PagSeguro.Session[info]: Begin
+09/04/2021 22:43:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 22:43:59 PagSeguro.Session[info]: Session ID: cea5eaa361024ccbb1ca8d2347a1d89b
+09/04/2021 23:00:01 PagSeguro.Session[info]: Begin
+09/04/2021 23:00:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:00:02 PagSeguro.Session[info]: Session ID: 6657330971d946dbbba2503d2a873767
+09/04/2021 23:01:15 PagSeguro.Session[info]: Begin
+09/04/2021 23:01:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:01:16 PagSeguro.Session[info]: Session ID: 034fbdb54f854ccfb391a7d64c86f027
+09/04/2021 23:02:09 PagSeguro.Session[info]: Begin
+09/04/2021 23:02:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:02:10 PagSeguro.Session[info]: Session ID: 81f98dafdd1248c9841e270d5586b207
+09/04/2021 23:04:31 PagSeguro.Session[info]: Begin
+09/04/2021 23:04:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:04:32 PagSeguro.Session[info]: Session ID: 447d4f48bd654c109ab975493f17c07b
+09/04/2021 23:06:10 PagSeguro.Session[info]: Begin
+09/04/2021 23:06:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:06:11 PagSeguro.Session[info]: Session ID: 42c7c80431a24313bfe0886b8cec1037
+09/04/2021 23:08:00 PagSeguro.Session[info]: Begin
+09/04/2021 23:08:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:08:01 PagSeguro.Session[info]: Session ID: 277fa7fe529047fc8694c23bc0e87f10
+09/04/2021 23:11:10 PagSeguro.Session[info]: Begin
+09/04/2021 23:11:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:11:11 PagSeguro.Session[info]: Session ID: 0549b34cface430ca3ec84632b3f5784
+09/04/2021 23:13:58 PagSeguro.Session[info]: Begin
+09/04/2021 23:13:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:13:59 PagSeguro.Session[info]: Session ID: a723c3637f234d169da9d553655e1121
+09/04/2021 23:17:59 PagSeguro.Session[info]: Begin
+09/04/2021 23:17:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:18:00 PagSeguro.Session[info]: Session ID: 6939c8a5296743c1a4023b4301010987
+09/04/2021 23:19:22 PagSeguro.Session[info]: Begin
+09/04/2021 23:19:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:19:22 PagSeguro.Session[info]: Session ID: 0043d7dac6974e58a3749186f14a6ce8
+09/04/2021 23:20:05 PagSeguro.Session[info]: Begin
+09/04/2021 23:20:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:20:05 PagSeguro.Session[info]: Session ID: 284382ec100d47b38a04ef90efa18695
+09/04/2021 23:21:46 PagSeguro.Session[info]: Begin
+09/04/2021 23:21:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:21:47 PagSeguro.Session[info]: Session ID: bec9fda1567e4458b341cb21aaaf7e8a
+09/04/2021 23:23:40 PagSeguro.Session[info]: Begin
+09/04/2021 23:23:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:23:40 PagSeguro.Session[info]: Session ID: 327d692a554c442184aacb70c0fc200c
+09/04/2021 23:24:15 PagSeguro.Session[info]: Begin
+09/04/2021 23:24:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:24:15 PagSeguro.Session[info]: Session ID: d8ab27f84aa241f8a7f88748ffd3b057
+09/04/2021 23:26:04 PagSeguro.Session[info]: Begin
+09/04/2021 23:26:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+09/04/2021 23:26:06 PagSeguro.Session[info]: Session ID: 34b32c9d2c0d44b68181643eccfae3cf
+10/04/2021 14:14:04 PagSeguro.Session[info]: Begin
+10/04/2021 14:14:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 14:14:08 PagSeguro.Session[info]: Session ID: fd034a91329d4beaaa8c091736bf7b88
+10/04/2021 14:14:18 PagSeguro.Session[info]: Begin
+10/04/2021 14:14:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 14:14:18 PagSeguro.Session[info]: Session ID: 0ab311ca956f4c1bbc2a85ec3bdfcbf6
+10/04/2021 14:33:46 PagSeguro.Session[info]: Begin
+10/04/2021 14:33:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 14:33:47 PagSeguro.Session[info]: Session ID: 36df01f9981745959a5b2fcfd2bced8c
+10/04/2021 14:34:52 PagSeguro.Session[info]: Begin
+10/04/2021 14:34:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 14:34:52 PagSeguro.Session[info]: Session ID: 8bcdced46b594118ad4e05f6dff4aba4
+10/04/2021 14:41:07 PagSeguro.Session[info]: Begin
+10/04/2021 14:41:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 14:41:07 PagSeguro.Session[info]: Session ID: 2fcb5663f0924012a45cb8f2374a9b7b
+10/04/2021 14:42:57 PagSeguro.Session[info]: Begin
+10/04/2021 14:42:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 14:42:58 PagSeguro.Session[info]: Session ID: 2a4b5d17970a4af485c50e0333e1080f
+10/04/2021 15:30:08 PagSeguro.Session[info]: Begin
+10/04/2021 15:30:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:30:09 PagSeguro.Session[info]: Session ID: 5989f079dee64341abe8ada58c9c30d4
+10/04/2021 15:34:14 PagSeguro.Session[info]: Begin
+10/04/2021 15:34:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:34:15 PagSeguro.Session[info]: Session ID: 788572d933634e63a5352bf4d4011007
+10/04/2021 15:35:49 PagSeguro.Session[info]: Begin
+10/04/2021 15:35:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:35:50 PagSeguro.Session[info]: Session ID: e2590ecd29354376ae4c1eba55a05c3c
+10/04/2021 15:38:02 PagSeguro.Session[info]: Begin
+10/04/2021 15:38:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:38:03 PagSeguro.Session[info]: Session ID: 711bcb319cc64e419698fbca91de41f1
+10/04/2021 15:41:28 PagSeguro.Session[info]: Begin
+10/04/2021 15:41:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:41:29 PagSeguro.Session[info]: Session ID: bcf7e6148cf1454f822d501a2e0bd673
+10/04/2021 15:43:44 PagSeguro.Session[info]: Begin
+10/04/2021 15:43:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:43:45 PagSeguro.Session[info]: Session ID: 02c1ae591389453681d47766337f2264
+10/04/2021 15:44:52 PagSeguro.Session[info]: Begin
+10/04/2021 15:44:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:44:53 PagSeguro.Session[info]: Session ID: 34592ffde97e45e3b6e30c66cb25f632
+10/04/2021 15:46:02 PagSeguro.Session[info]: Begin
+10/04/2021 15:46:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:46:03 PagSeguro.Session[info]: Session ID: 80450378e71641a99d54b93a0b68273c
+10/04/2021 15:51:17 PagSeguro.Session[info]: Begin
+10/04/2021 15:51:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:51:18 PagSeguro.Session[info]: Session ID: 08e5bd796f9145009b367977ed26a50f
+10/04/2021 15:51:50 PagSeguro.Session[info]: Begin
+10/04/2021 15:51:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:52:21 PagSeguro.Session[error]: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>504 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+CloudFront attempted to establish a connection with the origin, but either the attempt failed or the origin closed the connection.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: 2I0zHh-7ZPeWYdIA80d8N43cI9yzuNf1ExbkAuTQ7SaQsjVAt5n9dg==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+10/04/2021 15:52:21 PagSeguro.Session[info]: Begin
+10/04/2021 15:52:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:52:21 PagSeguro.Session[info]: Session ID: e0adcc6f8719488abbc26761a38d632b
+10/04/2021 15:56:33 PagSeguro.Session[info]: Begin
+10/04/2021 15:56:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:56:34 PagSeguro.Session[info]: Session ID: 34875ebb56684fe8a7160a8e378f32b3
+10/04/2021 15:58:18 PagSeguro.Session[info]: Begin
+10/04/2021 15:58:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:58:18 PagSeguro.Session[info]: Session ID: 825510de30bc473eb0084269ac998c9a
+10/04/2021 15:58:37 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 15:58:37 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:58:37 PagSeguro.Checkout[info]: Params: {"reference":"2","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"ricardo","creditCardHolderCPF":"8099873949","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderCPF":"809.***.***-**","senderIp":"::1","senderHash":"6ab2157cbd1770300dcd0a78715ed2349c5b94dbb9ff9d2944d841e5226bdd1c","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"bfbfa3a434264349851240ef495297aa"}
+10/04/2021 15:58:38 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53020</code><message>sender phone is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53017</code><message>sender cpf invalid value: 8099873949</message></error><error><code>53015</code><message>sender name invalid value: Ricardo</message></error><error><code>53038</code><message>installment quantity is required.</message></error><error><code>53040</code><message>installment value is required.</message></error><error><code>53046</code><message>credit card holder cpf invalid value: 8099873949</message></error><error><code>53044</code><message>credit card holder name invalid value: ricardo</message></error></errors>
+10/04/2021 15:59:56 PagSeguro.Session[info]: Begin
+10/04/2021 15:59:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 15:59:56 PagSeguro.Session[info]: Session ID: 6d6320d3416349ffaec5bd04365eb42e
+10/04/2021 16:00:46 PagSeguro.Session[info]: Begin
+10/04/2021 16:00:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:00:46 PagSeguro.Session[info]: Session ID: a97d6604bdb7447f8b71407ef21444c9
+10/04/2021 16:06:01 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:06:01 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:06:01 PagSeguro.Checkout[info]: Params: {"reference":"3","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"ricardo","creditCardHolderCPF":"8099873949","installmentQuantity":"1","installmentValue":"100.00","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderCPF":"809.***.***-**","senderIp":"::1","senderHash":"31d49f7fbd41f698e7e5ca2800ff24ff4f0cf43f00c4447bb400bd7ca5dee70e","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"98ff81207eea46baa506229544d3074d"}
+10/04/2021 16:06:02 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53018</code><message>sender area code is required.</message></error><error><code>53020</code><message>sender phone is required.</message></error><error><code>53017</code><message>sender cpf invalid value: 8099873949</message></error><error><code>53015</code><message>sender name invalid value: Ricardo</message></error><error><code>53046</code><message>credit card holder cpf invalid value: 8099873949</message></error><error><code>53044</code><message>credit card holder name invalid value: ricardo</message></error></errors>
+10/04/2021 16:06:43 PagSeguro.Session[info]: Begin
+10/04/2021 16:06:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:06:43 PagSeguro.Session[info]: Session ID: c6ab814fcce74d1eb9348fea0abc77aa
+10/04/2021 16:07:17 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:07:17 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:07:17 PagSeguro.Checkout[info]: Params: {"reference":"4","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"ricardo","creditCardHolderCPF":"8099873949","installmentQuantity":"1","installmentValue":"100.00","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderCPF":"809.***.***-**","senderIp":"::1","senderHash":"e22e3ece3287c2c32d2131e0bfcbec6a54a4f6ffb72b42eb843017fd69f003a3","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"10594dbeb789499e822da6bc4c48e41b"}
+10/04/2021 16:07:18 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53018</code><message>sender area code is required.</message></error><error><code>53020</code><message>sender phone is required.</message></error><error><code>53017</code><message>sender cpf invalid value: 8099873949</message></error><error><code>53015</code><message>sender name invalid value: Ricardo</message></error><error><code>53046</code><message>credit card holder cpf invalid value: 8099873949</message></error><error><code>53044</code><message>credit card holder name invalid value: ricardo</message></error></errors>
+10/04/2021 16:07:56 PagSeguro.Session[info]: Begin
+10/04/2021 16:07:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:07:56 PagSeguro.Session[info]: Session ID: aba5c5f8ef6d4cc0bc577b4822c1b57b
+10/04/2021 16:11:52 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:11:52 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:11:52 PagSeguro.Checkout[info]: Params: {"reference":"5","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"ricardo","creditCardHolderCPF":"8099873949","installmentQuantity":"1","installmentValue":"100.00","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderCPF":"809.***.***-**","senderIp":"::1","senderHash":"2bdf50409a7cd5a097f9893e8d7fb41009e61a0d24965e9417479027b4899d0c","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"3933fd1ed0864b83bd9a3c00153f06fc"}
+10/04/2021 16:11:52 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53018</code><message>sender area code is required.</message></error><error><code>53020</code><message>sender phone is required.</message></error><error><code>53017</code><message>sender cpf invalid value: 8099873949</message></error><error><code>53015</code><message>sender name invalid value: Ricardo</message></error><error><code>53046</code><message>credit card holder cpf invalid value: 8099873949</message></error><error><code>53044</code><message>credit card holder name invalid value: ricardo</message></error></errors>
+10/04/2021 16:12:56 PagSeguro.Session[info]: Begin
+10/04/2021 16:12:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:12:57 PagSeguro.Session[info]: Session ID: 1715244923a44a43ad929d9df5130607
+10/04/2021 16:13:45 PagSeguro.Session[info]: Begin
+10/04/2021 16:13:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:13:46 PagSeguro.Session[info]: Session ID: 203b55ca12e843faa3c5f7078061701b
+10/04/2021 16:14:12 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:14:12 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:14:12 PagSeguro.Checkout[info]: Params: {"reference":"6","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"RICARDO P MARQUES","creditCardHolderCPF":"8099873949","installmentQuantity":"7","installmentValue":"14.71","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderCPF":"809.***.***-**","senderIp":"::1","senderHash":"4775a1cfe20db8050d1174d88c579168f73f1aaee748f85238fe3b83490eaaaa","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"f39b4711a08f4a1babf60aa65f9cebb9"}
+10/04/2021 16:14:13 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53018</code><message>sender area code is required.</message></error><error><code>53020</code><message>sender phone is required.</message></error><error><code>53017</code><message>sender cpf invalid value: 8099873949</message></error><error><code>53015</code><message>sender name invalid value: Ricardo</message></error><error><code>53046</code><message>credit card holder cpf invalid value: 8099873949</message></error></errors>
+10/04/2021 16:20:38 PagSeguro.Session[info]: Begin
+10/04/2021 16:20:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:20:38 PagSeguro.Session[info]: Session ID: 23914cccb5884a0fa0fc12bee6c6e09d
+10/04/2021 16:23:30 PagSeguro.Session[info]: Begin
+10/04/2021 16:23:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:23:31 PagSeguro.Session[info]: Session ID: a6575ad4fc6a406a95420b1523a37faf
+10/04/2021 16:24:01 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:24:01 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:24:01 PagSeguro.Checkout[info]: Params: {"reference":"7","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"ricardo","creditCardHolderCPF":"80998739049","installmentQuantity":"1","installmentValue":"100.00","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderCPF":"809.***.***-**","senderIp":"::1","senderHash":"8585d940dd82fd94d7afa828e14dadb15a8b6127ef26e059a073c74818c2cd29","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"d5c737a7078a4a3983f65f0cf3d3fb8f"}
+10/04/2021 16:24:02 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53020</code><message>sender phone is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53015</code><message>sender name invalid value: Ricardo</message></error><error><code>53044</code><message>credit card holder name invalid value: ricardo</message></error></errors>
+10/04/2021 16:28:07 PagSeguro.Session[info]: Begin
+10/04/2021 16:28:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:28:08 PagSeguro.Session[info]: Session ID: 5993a50b9362495ab453044a44b9b7f1
+10/04/2021 16:28:43 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:28:43 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:28:43 PagSeguro.Checkout[info]: Params: {"reference":"8","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"ricardo PEREIRA MARQUES","creditCardHolderCPF":"80998739049","installmentQuantity":"1","installmentValue":"100.00","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderCPF":"809.***.***-**","senderIp":"::1","senderHash":"d5b8b34200a76f04c3987a6bf8d18670f51f5e366cf26fec2f2677c6ea0d91b1","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"55094b27a6364d2c94cee22e17567336"}
+10/04/2021 16:28:44 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53020</code><message>sender phone is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53015</code><message>sender name invalid value: Ricardo</message></error></errors>
+10/04/2021 16:35:07 PagSeguro.Session[info]: Begin
+10/04/2021 16:35:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:35:08 PagSeguro.Session[info]: Session ID: 3803a4df26ee41baa8201980348efe74
+10/04/2021 16:35:27 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:35:27 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:35:27 PagSeguro.Checkout[info]: Params: {"reference":"9","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"ricardo","creditCardHolderCPF":"80998739049","installmentQuantity":"1","installmentValue":"100.00","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderCPF":"809.***.***-**","senderIp":"::1","senderHash":"cbc62e475b9a2f4b47e57b0b65e8494e140d92e242069f758ec30bfc94047cf5","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"2cc5a6f55bcf4d54bd9ac87ec546b975"}
+10/04/2021 16:35:28 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53020</code><message>sender phone is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53044</code><message>credit card holder name invalid value: ricardo</message></error></errors>
+10/04/2021 16:36:13 PagSeguro.Session[info]: Begin
+10/04/2021 16:36:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:36:13 PagSeguro.Session[info]: Session ID: eaf3f60fb20a46d49a28b8b1d74be380
+10/04/2021 16:36:28 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:36:28 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:36:28 PagSeguro.Checkout[info]: Params: {"reference":"10","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"ricardo","creditCardHolderCPF":"80998739049","installmentQuantity":"1","installmentValue":"100.00","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderCPF":"809.***.***-**","senderIp":"::1","senderHash":"121a877119092f9cc4fb69c4c2435d79bc0d949228b0350c7757132161cb9498","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"41dbfa39f0ec4533ae5e9938c348e268"}
+10/04/2021 16:36:29 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53020</code><message>sender phone is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53044</code><message>credit card holder name invalid value: ricardo</message></error></errors>
+10/04/2021 16:44:25 PagSeguro.Session[info]: Begin
+10/04/2021 16:44:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:44:26 PagSeguro.Session[info]: Session ID: 19b19e3208a848c5b47354d81b626896
+10/04/2021 16:44:53 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:44:53 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:44:53 PagSeguro.Checkout[info]: Params: {"reference":"11","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"ricardo","creditCardHolderCPF":"80998739049","installmentQuantity":"1","installmentValue":"100.00","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"af679ab3bbf65a18b691f61035b521f839a172103da7af858a2f2855f41500ce","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"2d07cf1f3b004f1d80f89025852b617d"}
+10/04/2021 16:44:53 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53044</code><message>credit card holder name invalid value: ricardo</message></error></errors>
+10/04/2021 16:45:31 PagSeguro.Session[info]: Begin
+10/04/2021 16:45:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:45:32 PagSeguro.Session[info]: Session ID: 01adb441528f4399a2a775281df2600c
+10/04/2021 16:45:47 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:45:47 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:45:47 PagSeguro.Checkout[info]: Params: {"reference":"12","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Ricardo Pereira Marques ","creditCardHolderCPF":"80998739049","installmentQuantity":"7","installmentValue":"14.71","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"73b61d3ff2d9fbd4593fd9365a85287016ea871ef9db63e8da858d11d5320307","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"09b3fea5619b481a9423107de66a6faa"}
+10/04/2021 16:45:48 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 14.71</message></error></errors>
+10/04/2021 16:47:29 PagSeguro.Session[info]: Begin
+10/04/2021 16:47:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+10/04/2021 16:47:30 PagSeguro.Session[info]: Session ID: ecf742fd37d0444083c4d87284252bf9
+10/04/2021 16:47:48 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/04/2021 16:47:48 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 14:12:25 PagSeguro.Session[info]: Begin
+12/04/2021 14:12:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 14:12:26 PagSeguro.Session[info]: Session ID: d58f20d1547b4e3c98344e7be6933860
+12/04/2021 14:12:54 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 14:12:54 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 14:19:40 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 14:19:40 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 14:19:45 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 14:19:45 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:03:48 PagSeguro.Session[info]: Begin
+12/04/2021 15:03:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:03:49 PagSeguro.Session[info]: Session ID: 49f94925272c40a1bfd97a149b9a9c3f
+12/04/2021 15:04:14 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 15:04:14 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:30:36 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 15:30:36 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:31:46 PagSeguro.Session[info]: Begin
+12/04/2021 15:31:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:31:47 PagSeguro.Session[info]: Session ID: aeb157f0d62f498e9c5b1e282348b0b3
+12/04/2021 15:32:29 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 15:32:29 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:32:29 PagSeguro.Checkout[info]: Params: {"reference":"19","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Ricardo Pereira Marques ","creditCardHolderCPF":"80998739049","installmentQuantity":"2","installmentValue":"52.26","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"f7cdc882f67b90284c78824830666e743315dd62dcf4eb5a0791dfc189245ca0","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"ae657eafa6df403e9ab6a37c7dc8b26a"}
+12/04/2021 15:32:31 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 52.26</message></error></errors>
+12/04/2021 15:35:53 PagSeguro.Session[info]: Begin
+12/04/2021 15:35:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:35:54 PagSeguro.Session[info]: Session ID: 0d872c1a66ef4f2593f991b26f5475cd
+12/04/2021 15:38:08 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 15:38:08 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:38:08 PagSeguro.Checkout[info]: Params: {"reference":"20","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Ricardo Pereira Marques ","creditCardHolderCPF":"80998739049","installmentQuantity":"1","installmentValue":"100.00","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"ced127e7157ed93b1105a1f794a4c1b9ea7ed1ba2f720462298d60036d825844","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"febb37b8331b4bb4a8c3e01898a39d67"}
+12/04/2021 15:38:10 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 100.00</message></error></errors>
+12/04/2021 15:47:37 PagSeguro.Session[info]: Begin
+12/04/2021 15:47:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:47:38 PagSeguro.Session[info]: Session ID: 5abf79b34e9f458e9c4fa3e8a9abd5ee
+12/04/2021 15:50:34 PagSeguro.Session[info]: Begin
+12/04/2021 15:50:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 15:50:35 PagSeguro.Session[info]: Session ID: a0811b56c943437d82f3415b49b0c7b3
+12/04/2021 16:33:33 PagSeguro.Session[info]: Begin
+12/04/2021 16:33:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 16:33:33 PagSeguro.Session[info]: Session ID: ebddb33a085e449ea6fa83fe88b98920
+12/04/2021 16:33:57 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 16:33:57 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 16:33:57 PagSeguro.Checkout[info]: Params: {"reference":"21","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Ricardo Pereira Marques ","creditCardHolderCPF":"80998739049","installmentQuantity":"3","installmentValue":"211.73","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"bb8eb088ed516947e163a6042ae75291f4aa35a68ac017c8c41b2d218705cc2e","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"72b53ba67bc2438caa655f729e1194f9"}
+12/04/2021 16:33:59 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 37FED1C7-0B27-4D8C-BAE6-B06789DAA061
+12/04/2021 16:38:32 PagSeguro.Session[info]: Begin
+12/04/2021 16:38:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 16:38:32 PagSeguro.Session[info]: Session ID: 6833edaa1c6b4829a1704ffb9567382e
+12/04/2021 16:38:51 PagSeguro.Session[info]: Begin
+12/04/2021 16:38:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 16:38:52 PagSeguro.Session[info]: Session ID: c5cf6b2a3a50490f93a6595b74f33f6b
+12/04/2021 19:44:51 PagSeguro.Session[info]: Begin
+12/04/2021 19:44:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:44:52 PagSeguro.Session[info]: Session ID: 8c199c74f88b40d5a1872462523e8bd8
+12/04/2021 19:46:17 PagSeguro.Session[info]: Begin
+12/04/2021 19:46:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:46:18 PagSeguro.Session[info]: Session ID: ad8d4a4953aa42488957906261d77dab
+12/04/2021 19:46:36 PagSeguro.Session[info]: Begin
+12/04/2021 19:46:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:46:37 PagSeguro.Session[info]: Session ID: 23f544c39fe14eaf89d54542e0b2cb03
+12/04/2021 19:50:06 PagSeguro.Session[info]: Begin
+12/04/2021 19:50:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:50:08 PagSeguro.Session[info]: Session ID: b375643805a5465e9963cf55db61e5dd
+12/04/2021 19:50:13 PagSeguro.Session[info]: Begin
+12/04/2021 19:50:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:50:13 PagSeguro.Session[info]: Session ID: d21b734fec8a406bb2bcf665a0309829
+12/04/2021 19:50:25 PagSeguro.Session[info]: Begin
+12/04/2021 19:50:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:50:26 PagSeguro.Session[info]: Session ID: 057d0b30478146dd8d56a07b4f1e59dc
+12/04/2021 19:50:37 PagSeguro.Session[info]: Begin
+12/04/2021 19:50:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:50:38 PagSeguro.Session[info]: Session ID: cb9f236edef6412fba113a86afa98548
+12/04/2021 19:51:15 PagSeguro.Session[info]: Begin
+12/04/2021 19:51:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:51:16 PagSeguro.Session[info]: Session ID: 00471f4ec29f49ffaae5830d5462f92b
+12/04/2021 19:56:40 PagSeguro.Session[info]: Begin
+12/04/2021 19:56:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:56:41 PagSeguro.Session[info]: Session ID: 97e57d136a504ca5a3b735d538adee04
+12/04/2021 19:56:55 PagSeguro.Session[info]: Begin
+12/04/2021 19:56:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:56:55 PagSeguro.Session[info]: Session ID: 0c511acc3d334ac1b47b1391c6eed5c7
+12/04/2021 19:57:07 PagSeguro.Session[info]: Begin
+12/04/2021 19:57:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:57:08 PagSeguro.Session[info]: Session ID: fdff147220dc4a1bbdffcead71face68
+12/04/2021 19:57:30 PagSeguro.Session[info]: Begin
+12/04/2021 19:57:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:57:30 PagSeguro.Session[info]: Session ID: b503be413d5543eb9e8587829cdec767
+12/04/2021 19:57:57 PagSeguro.Session[info]: Begin
+12/04/2021 19:57:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 19:57:57 PagSeguro.Session[info]: Session ID: bdb141de14124dbbb10919578d25b902
+12/04/2021 20:03:53 PagSeguro.Session[info]: Begin
+12/04/2021 20:03:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:03:54 PagSeguro.Session[info]: Session ID: af4319d3bc404e60bacdbacfc70a73d0
+12/04/2021 20:04:24 PagSeguro.Session[info]: Begin
+12/04/2021 20:04:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:04:25 PagSeguro.Session[info]: Session ID: 5da505223ca24e6fa113e25d4a475975
+12/04/2021 20:04:43 PagSeguro.Session[info]: Begin
+12/04/2021 20:04:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:04:44 PagSeguro.Session[info]: Session ID: eb09a7345ce1412284ea8e2091ff00da
+12/04/2021 20:06:24 PagSeguro.Session[info]: Begin
+12/04/2021 20:06:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:06:24 PagSeguro.Session[info]: Session ID: b04d70f72f394d11a39380fce3491cff
+12/04/2021 20:06:26 PagSeguro.Session[info]: Begin
+12/04/2021 20:06:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:06:26 PagSeguro.Session[info]: Session ID: 8c6bb0c018f144ca95511eec9bc6dc50
+12/04/2021 20:06:52 PagSeguro.Session[info]: Begin
+12/04/2021 20:06:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:06:53 PagSeguro.Session[info]: Session ID: 687355dd09774e809728c2c6405077db
+12/04/2021 20:06:54 PagSeguro.Session[info]: Begin
+12/04/2021 20:06:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:06:54 PagSeguro.Session[info]: Session ID: 1359b21356fb4260a2778e53c9422330
+12/04/2021 20:14:26 PagSeguro.Session[info]: Begin
+12/04/2021 20:14:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:14:27 PagSeguro.Session[info]: Session ID: 719f92a65414414eab36bdbf58c0a110
+12/04/2021 20:14:33 PagSeguro.Session[info]: Begin
+12/04/2021 20:14:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:14:34 PagSeguro.Session[info]: Session ID: 2ecf45ef6d924e048a260476b37106e4
+12/04/2021 20:15:03 PagSeguro.Session[info]: Begin
+12/04/2021 20:15:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:15:04 PagSeguro.Session[info]: Session ID: 2f6761ec268d46849eff548ca783733a
+12/04/2021 20:15:04 PagSeguro.Session[info]: Begin
+12/04/2021 20:15:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:15:05 PagSeguro.Session[info]: Session ID: dc05700ea637487bb4d5ae4d672243d8
+12/04/2021 20:15:14 PagSeguro.Session[info]: Begin
+12/04/2021 20:15:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:15:14 PagSeguro.Session[info]: Session ID: 1cadf315e3cd4c8c9542240ae27ae765
+12/04/2021 20:16:00 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 20:16:00 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:16:00 PagSeguro.Checkout[info]: Params: {"reference":"22","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Ricardo Pereira Marques ","creditCardHolderCPF":"80998739049","installmentQuantity":"4","installmentValue":"322.23","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":2,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"7a28e096ed43e16c5f7cee6b911559dba1adb8f7faee59d6d3b0be10a661538f","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"060d317bcd9a4217bf077188e58c263f"}
+12/04/2021 20:16:07 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 0DF9E905-1386-43FF-B3A9-8D2635F7C185
+12/04/2021 20:42:27 PagSeguro.Session[info]: Begin
+12/04/2021 20:42:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:42:35 PagSeguro.Session[info]: Session ID: 18e980e8541c4d72947089a57ae16851
+12/04/2021 20:45:32 PagSeguro.Session[info]: Begin
+12/04/2021 20:45:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:45:33 PagSeguro.Session[info]: Session ID: 8a5b04802e764726977e1be7ea357667
+12/04/2021 20:48:34 PagSeguro.Session[info]: Begin
+12/04/2021 20:48:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:48:35 PagSeguro.Session[info]: Session ID: a0773c648c1344808ee864f90d312f04
+12/04/2021 20:50:26 PagSeguro.Session[info]: Begin
+12/04/2021 20:50:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:50:26 PagSeguro.Session[info]: Session ID: 6015182b5e8b4885be024e785fbec492
+12/04/2021 20:51:42 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 20:51:42 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:51:42 PagSeguro.Checkout[info]: Params: {"reference":"23","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Ricardo Pereira Marques ","creditCardHolderCPF":"80998739049","installmentQuantity":"4","installmentValue":"308.46","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":2,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"ca7bdb49f0c36ae316cc516b4f3f66f44da375c51f4d5b3d8b31020d13a4ecfb","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"62f5b53a4da5452d87a44e14faf31ea3"}
+12/04/2021 20:51:43 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 308.46</message></error></errors>
+12/04/2021 20:56:07 PagSeguro.Session[info]: Begin
+12/04/2021 20:56:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:56:08 PagSeguro.Session[info]: Session ID: ef9b706e921b44e4ad235f5fd150c432
+12/04/2021 20:58:44 PagSeguro.Session[info]: Begin
+12/04/2021 20:58:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:58:44 PagSeguro.Session[info]: Session ID: 7239861416ee4409b6f931622bb8b0ea
+12/04/2021 20:59:24 PagSeguro.Session[info]: Begin
+12/04/2021 20:59:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:59:25 PagSeguro.Session[info]: Session ID: 3077c3f566ae4001938b64cbcdc4f2c7
+12/04/2021 20:59:56 PagSeguro.Session[info]: Begin
+12/04/2021 20:59:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 20:59:57 PagSeguro.Session[info]: Session ID: fb95a7f0b1ac4400881593ffc9222ae8
+12/04/2021 21:00:18 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 21:00:18 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:03:12 PagSeguro.Session[info]: Begin
+12/04/2021 21:03:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:03:12 PagSeguro.Session[info]: Session ID: e377a0353b4b4e5e91f24f732f08b717
+12/04/2021 21:03:37 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 21:03:37 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:04:18 PagSeguro.Session[info]: Begin
+12/04/2021 21:04:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:04:19 PagSeguro.Session[info]: Session ID: 8eff379f96ca4b83ad682e26fd46fdaf
+12/04/2021 21:04:39 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 21:04:39 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:05:06 PagSeguro.Session[info]: Begin
+12/04/2021 21:05:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:05:07 PagSeguro.Session[info]: Session ID: bee14b83acb642ac8c833d61b5f43a03
+12/04/2021 21:05:30 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 21:05:30 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:20:28 PagSeguro.Session[info]: Begin
+12/04/2021 21:20:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:20:29 PagSeguro.Session[info]: Session ID: f817e0a0a56a41d09cf8f7bb912ba42e
+12/04/2021 21:20:57 PagSeguro.Session[info]: Begin
+12/04/2021 21:20:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:20:57 PagSeguro.Session[info]: Session ID: a7bfbf9cac38472ea362604dcb80c6b9
+12/04/2021 21:21:10 PagSeguro.Session[info]: Begin
+12/04/2021 21:21:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:21:11 PagSeguro.Session[info]: Session ID: e35d1ee72f7d4745b446512e5a1ba07e
+12/04/2021 21:21:33 PagSeguro.Session[info]: Begin
+12/04/2021 21:21:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:21:34 PagSeguro.Session[info]: Session ID: c5dd014cfd2444e19ec67a90ec31fe96
+12/04/2021 21:22:19 PagSeguro.Session[info]: Begin
+12/04/2021 21:22:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:22:20 PagSeguro.Session[info]: Session ID: 829370aa4b3445fe988b54fbc53b21d8
+12/04/2021 21:25:46 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 21:25:46 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:25:46 PagSeguro.Checkout[info]: Params: {"reference":"29","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Ricardo Pereira Marques ","creditCardHolderCPF":"80998739049","installmentQuantity":"5","installmentValue":"250.41","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":2,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"3825348570c5a287f5962e128e723ece911f6b5a13c94e56ae6e5d2c9fceca74","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"69a198c08048484bbd4f18e2470eac98"}
+12/04/2021 21:25:48 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53041</code><message>installment value invalid value: 250.41</message></error></errors>
+12/04/2021 21:26:11 PagSeguro.Session[info]: Begin
+12/04/2021 21:26:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:26:11 PagSeguro.Session[info]: Session ID: b7b77188078b48169bf4f462c59ac85f
+12/04/2021 21:26:33 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 21:26:33 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 21:26:33 PagSeguro.Checkout[info]: Params: {"reference":"30","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Ricardo Pereira Marques ","creditCardHolderCPF":"80998739049","installmentQuantity":"5","installmentValue":"261.52","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":2,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"b19cf7146719f122b3fd89f893db92a41c302f86cf1d52cf9d8c6aac22dde9e2","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"bb3b87c3d44a473a8c867903e0e13a3b"}
+12/04/2021 21:26:35 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 5100CBA3-7AD7-4E2D-8560-5FE2B9065146
+12/04/2021 22:43:01 PagSeguro.Session[info]: Begin
+12/04/2021 22:43:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 22:43:02 PagSeguro.Session[info]: Session ID: c5ad898b299f477486b26a1e6985f5de
+12/04/2021 22:44:35 PagSeguro.DirectPayment.CreditCard[info]: Begin
+12/04/2021 22:44:35 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 22:44:35 PagSeguro.Checkout[info]: Params: {"reference":"31","notificationURL":"http:\/\/localhost:81\/sage_loja\/pagsegurotransparente\/notificacao","billingAddressStreet":"Rua Manduca Rodrigues","billingAddressNumber":"432","billingAddressComplement":"1","billingAddressCity":"Santana do Livramento","billingAddressState":"RS","billingAddressDistrict":"Centro","billingAddressPostalCode":"97573560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Ricardo Pereira Marques ","creditCardHolderCPF":"80998739049","installmentQuantity":"3","installmentValue":"423.45","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":2,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nairacharnoski@gmail.com","senderName":"Ricardo Pereira Marques","senderEmail":"c79968513705754159978@sandbox.pagseguro.com.br","senderAreaCode":"55","senderPhone":"(**) 99729-****","senderCPF":"809.***.***-**","senderIp":"127.0.0.1","senderHash":"84bec6653a357e688e6c6f42b5d31e341486ce1fa46eb5e8f78cd0cdea728eee","shippingAddressStreet":"Rua Manduca Rodrigues","shippingAddressNumber":"432","shippingAddressComplement":"1","shippingAddressCity":"Santana do Livramento","shippingAddressState":"RS","shippingAddressDistrict":"Centro","shippingAddressPostalCode":"97573560","shippingAddressCountry":"BRA","creditCardToken":"6cd7f62a8fa24a7f80fc1b66966d19e3"}
+12/04/2021 22:44:37 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 1C33EF1E-CFB3-4593-8888-30DE906FEBBC
+12/04/2021 22:57:16 PagSeguro.Session[info]: Begin
+12/04/2021 22:57:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+12/04/2021 22:57:17 PagSeguro.Session[info]: Session ID: 6869cf65a20d4bbdb07d71a81d0ffa87
+13/04/2021 13:59:17 PagSeguro.Session[info]: Begin
+13/04/2021 13:59:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+13/04/2021 13:59:18 PagSeguro.Session[info]: Session ID: 1ef5c5427f084a6a8e82f4a5c69789b6

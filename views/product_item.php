@@ -1,5 +1,5 @@
 <div class="produtc_item"> 
-    <a href="">
+    <a href="<?= BASE_URL; ?>product/open/<?= $id; ?>">
 
     <div class="product_tags">
         <?php if ($sale == '1'):?>
@@ -22,7 +22,6 @@
                 echo 'R$ '.number_format($price_from,2,',','.');
             }?></div>
         <div class="product_price"> <?=  'R$ '.number_format($price,2,',','.');?></div>
-        <div style="clear:both"></div>
-        
+        <div style="clear:both"></div>        
     </a>
 </div>

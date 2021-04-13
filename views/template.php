@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8" />
+		<meta charset="UTF-8" />
 		<title>SAGE Loja 2.0</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
@@ -10,6 +10,8 @@
 		<link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/jquery-ui.min.css" type="text/css" />
 		<link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/jquery-ui.structure.min.css" type="text/css" />
 		<link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/jquery-ui.theme.min.css" type="text/css" />
+		<!-- COLOCO AQUI POR CAUSA DO PAGSEGURO -->
+		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/jquery.min.js"></script>
 	</head>
 	<body>
 		<nav class="navbar topnav">
@@ -41,25 +43,42 @@
 						<div class="head_help">(11) 9999-9999</div>
 						<div class="head_email">contato@<span>loja2.com.br</span></div>
 						
+						<!-- BUSCA -->
 						<div class="search_area">
-							<form method="GET">
-								<input type="text" name="s" required placeholder="<?php $this->lang->get('SEARCHFORANITEM'); ?>" />
+							<form method="GET" action="<?= BASE_URL;?>busca">
+								<input type="text" name="s" value="<?=(!empty($viewData['textoBusca']))?$viewData['textoBusca']:'';?>" required placeholder="<?php $this->lang->get('SEARCHFORANITEM'); ?>" />
 								<select name="category">
 									<option value=""><?php $this->lang->get('ALLCATEGORIES'); ?></option>
+								<?php 
+								 foreach($viewData['categories'] as $categorias): ?>									
+									<option <?= (isset($viewData['category']) && $viewData['category']==$categorias['id'])?'selected="selected"':'';?> value="<?= $categorias['id']; ?>"> <?=$categorias['name']; ?></option>								
+									<?php 
+									// echo '<pre>';
+									// var_dump($categorias);
+										if (count($categorias['subs']) > 0 ){
+											$this->loadView('search_subcategory',array(
+												'subs' => $categorias['subs'],
+												'nivel' => 1,
+												'category' => (isset($viewData['category']))?$viewData['category']:'' // FAÇO ISSO PRA PASSAR PRA DENTRO DO VIEW search_subcategory EU POSSA ACESSAR ELE...
+											));
+										}
+									?>
+							  <?php  endforeach ; ?>									
 								</select>
 								<input type="submit" value="" />
 						    </form>
 						</div>
+						<!-- FIM BUSCA -->
 					</div>
 					<div class="col-sm-3">
 						<a href="<?php echo BASE_URL; ?>cart">
 							<div class="cartarea">
 								<div class="carticon">
-									<div class="cartqt">9</div>
+									<div class="cartqt"><?= $viewData['carrinho_qt'];?></div>
 								</div>
 								<div class="carttotal">
 									<?php $this->lang->get('CART'); ?>:<br/>
-									<span>R$ 999,99</span>
+									<span>R$ <?= number_format($viewData['carrinho_subtotal'],2,',','.');?></span>
 								</div>
 							</div>
 						</a>
@@ -96,10 +115,8 @@
 								<li>
 									<a href="<?= BASE_URL;?>categories/enter/<?= $cf['id']?>"><?= $cf['name'];?></a>
 								</li>
-							<?php endforeach;?>
-							
-						<?php endif;?>
-						
+							<?php endforeach;?>							
+						<?php endif;?>						
 					</ul>
 				</div>
 			</nav>
@@ -107,160 +124,22 @@
 		<section>
 			<div class="container">
 				<div class="row">
-				  <div class="col-sm-3">
-				  	<aside>
-				  		<h1><?php $this->lang->get('FILTER'); ?></h1>
-				  		<div class="filterarea">
-						  
-							<form method="GET">
-							<?php
-							// if(isset($_GET['filters'])){
-							// 	echo '<pre>';
-							// 	var_dump($_GET);
-
-							// }
-							?>
-
-								<!-- FILTRO DE MARCAS -->
-								<div class="filterbox">
-									<div class="filtertitle"> <?php $this->lang->get('BRANDS'); ?> </div>
-									<div class="filtercontent">
-										<?php foreach($viewData['filters']['brands'] as $marca_item): ?>
-											<div class="filteritem marcas">
-												<input type="checkbox" 
-												<?= (isset($viewData['filters_selected']['brand']) && in_array($marca_item['id'],$viewData['filters_selected']['brand']))?'checked="checked"':'';?>
-												name="filter[brand][]" value="<?= $marca_item['id'];?>" id="filter_brand<?= $marca_item['id'] ?>"/> 
-												<label for="filter_brand<?= $marca_item['id'] ?>"><?= $marca_item['name']; ?>  </label> 
-												<span style="float:right;">(<?= $marca_item['count']; ?>)</span>
-											</div>
-										<?php endforeach; ?>
-									</div>
-								</div>
-								<!-- FAIXA DE PREÇOS -->
-								<div class="filterbox">
-									<div class="filtertitle"> <?php $this->lang->get('PRICE'); ?> </div>
-									<div class="filtercontent">
-											<input type="hidden" id="slider0" name="filters[slider0]" value="<?= $viewData['filters']['slider0']?>">
-											<input type="hidden" id="slider1" name="filters[slider1]" value="<?= $viewData['filters']['slider1']?>">
-											<input type="text" id="amount" readonly >				
-										<div id="slider-range"></div>
-									</div>
-								</div>
-								<!-- FILTRO DE ESTRELAS -->
-								<div class="filterbox">
-									<div class="filtertitle"> <?php $this->lang->get('RATING'); ?> </div>
-									<div class="filtercontent">
-										<div class="filteritem">
-											<input type="checkbox" 
-											<?= (isset($viewData['filters_selected']['filter_star']) && in_array('0',$viewData['filters_selected']['filter_star']))?'checked="checked"':'';?>
-											name="filter[filter_star][]" value="0" id="filter_star0"> 
-											<label for="filter_star0">
-												( <?php $this->lang->get('NO_STAR'); ?>)
-											</label> 
-											<span style="float:right;">(<?= $viewData['filters']['stars']['0']; ?>)</span>
-										</div>
-										<div class="filteritem">
-											<input type="checkbox" 
-											<?= (isset($viewData['filters_selected']['filter_star']) && in_array('1',$viewData['filters_selected']['filter_star']))?'checked="checked"':'';?>
-											name="filter[filter_star][]" value="1" id="filter_star1"> 
-											<label for="filter_star1">
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px"  >
-											</label> 
-											<span style="float:right;">(<?= $viewData['filters']['stars']['1']; ?>)</span>
-										</div>
-										<div class="filteritem">
-											<input type="checkbox"
-											<?= (isset($viewData['filters_selected']['filter_star']) && in_array('2',$viewData['filters_selected']['filter_star']))?'checked="checked"':'';?>
-											 name="filter[filter_star][]" value="2" id="filter_star2"> 
-											<label for="filter_star2">
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-											</label> 
-											<span style="float:right;">(<?= $viewData['filters']['stars']['2']; ?>)</span>
-										</div>
-										<div class="filteritem">
-											<input type="checkbox"
-											<?= (isset($viewData['filters_selected']['filter_star']) && in_array('3',$viewData['filters_selected']['filter_star']))?'checked="checked"':'';?>
-											 name="filter[filter_star][]" value="3" id="filter_star3"> 
-											<label for="filter_star3">
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >	
-											</label> 
-											<span style="float:right;">(<?= $viewData['filters']['stars']['3']; ?>)</span>
-										</div>
-										<div class="filteritem">
-											<input type="checkbox"
-											<?= (isset($viewData['filters_selected']['filter_star']) && in_array('4',$viewData['filters_selected']['filter_star']))?'checked="checked"':'';?>
-											 name="filter[filter_star][]" value="4" id="filter_star4"> 
-											<label for="filter_star4">
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px"  >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-											</label> 
-											<span style="float:right;">(<?= $viewData['filters']['stars']['4']; ?>)</span>
-										</div>
-										<div class="filteritem">
-											<input type="checkbox"
-											<?= (isset($viewData['filters_selected']['filter_star']) && in_array('5',$viewData['filters_selected']['filter_star']))?'checked="checked"':'';?>
-											 name="filter[filter_star][]" value="5" id="filter_star5"> 
-											<label for="filter_star5">
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px"  >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-												<img src="<?= BASE_URL ?>assets/images/star.png" height="13px" >
-											</label> 
-											<span style="float:right;">(<?= $viewData['filters']['stars']['5']; ?>)</span>
-										</div>
-									</div>
-								</div>
-								<!-- FILTRO PROMOÇÃO -->
-								<div class="filterbox">
-									<div class="filtertitle"> <?php $this->lang->get('SALE'); ?> </div>
-									<div class="filtercontent">
-										<div class="filteritem">
-											<input type="checkbox" 
-											<?= (isset($viewData['filters_selected']['sale']) && $viewData['filters_selected']['sale'])=="1"?'checked="checked"':'';?>
-											name="filter[sale]" value="1" id="filter_sale"> 
-											<label for="filter_sale">Na Promoção</label> 
-											<span style="float:right;">(<?= $viewData['filters']['sale']; ?>)</span>
-										</div>
-									</div>
-								</div>
-								<!-- FILTRO OPÇÕES -->
-								<div class="filterbox">
-									<div class="filtertitle"> <?php $this->lang->get('OPTIONS'); ?> </div>
-									<div class="filtercontent">
-										<?php  foreach($viewData['filters']['options'] as $option):?>
-										<strong> <?= $option['name']?></strong><br>
-											<?php foreach($option['options'] as $item_option):?>
-												<div class="filteritem">
-													<input type="checkbox" 
-													<?= (isset($viewData['filters_selected']['options']) && in_array($item_option['value'],$viewData['filters_selected']['options']))?'checked="checked"':'';?>
-													name="filter[options][]" value="<?= $item_option['value'];?>" id="filter_options<?= $item_option['id'] ?>"> 
-													<label for="filter_options<?= $item_option['id'] ?>"><?= $item_option['value']; ?>  </label> 
-												<span style="float:right;">(<?= $item_option['count']; ?>)</span>
-											</div>
-											<?php endforeach;?>
-										<br>
-										<?php  endforeach;?>
-									</div>
-								</div>
-
-							</form>
-				  		</div> <!-- FILTERAREA -->
-
-				  		<div class="widget">
-				  			<h1><?php $this->lang->get('FEATUREDPRODUCTS'); ?></h1>
-				  			<div class="widget_body">
-				  				...
-				  			</div>
-				  		</div>
-				  	</aside>
-				  </div>
-				  <div class="col-sm-9"><?php $this->loadView($viewName, $viewData); ?></div>
+				<?php if(isset($viewData['sidebar'])) :?>
+					<div class="col-sm-3">
+						<?php $this->loadView('sidebar',array('viewData'=>$viewData)) ?>
+					</div>
+					<!-- AQUI LISTA OS PRODUTOS -->
+					<div class="col-sm-9">
+						<?php $this->loadView($viewName, $viewData); ?>
+					</div>
+				<?php else:?>
+				
+					<div class="col-sm-12">
+						<?php $this->loadView($viewName, $viewData); ?>
+					</div>
+				
+				<?php endif;?>
+					
 				</div>
 	    	</div>
 	    </section>
@@ -271,7 +150,7 @@
 				  	<div class="widget">
 			  			<h1><?php $this->lang->get('FEATUREDPRODUCTS'); ?></h1>
 			  			<div class="widget_body">
-			  				...
+						  <?php $this->loadView('widget_item',array('list' => $viewData['widget_destaque2'])) ?>
 			  			</div>
 			  		</div>
 				  </div>
@@ -279,7 +158,7 @@
 				  	<div class="widget">
 			  			<h1><?php $this->lang->get('ONSALEPRODUCTS'); ?></h1>
 			  			<div class="widget_body">
-			  				...
+			  				<?php $this->loadView('widget_item',array('list' => $viewData['widget_promocao'])) ?>
 			  			</div>
 			  		</div>
 				  </div>
@@ -287,7 +166,7 @@
 				  	<div class="widget">
 			  			<h1><?php $this->lang->get('TOPRATEDPRODUCTS'); ?></h1>
 			  			<div class="widget_body">
-			  				...
+						  <?php $this->loadView('widget_item',array('list' => $viewData['widget_melhores'])) ?>
 			  			</div>
 			  		</div>
 				  </div>
@@ -297,10 +176,12 @@
 	    		<div class="container">
 	    			<div class="row">
 						<div class="col-xs-12 col-sm-8 col-sm-offset-2 no-padding">
-							<form method="POST">
-                                <input class="subemail" name="email" placeholder="<?php $this->lang->get('SUBSCRIBETEXT'); ?>">
-                                <input type="submit" value="<?php $this->lang->get('SUBSCRIBEBUTTON'); ?>" />
-                            </form>
+							<!-- Begin Mailchimp Signup Form -->
+							<form action="https://gmail.us1.list-manage.com/subscribe/post?u=8eed36d080430326be5c54f1f&amp;id=01965a42ae" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+								<input type="email" value="" name="EMAIL" class=" subemail required email" id="mce-EMAIL" placeholder="<?php $this->lang->get('SUBSCRIBETEXT'); ?>">
+								<input type="hidden" name="b_8eed36d080430326be5c54f1f_01965a42ae" tabindex="-1" value="">
+								<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" value="<?php $this->lang->get('SUBSCRIBEBUTTON'); ?>">
+							</form>
 						</div>
 					</div>
 	    		</div>
@@ -370,11 +251,9 @@
 	    	</div>
 	    </footer>
 		<script type="text/javascript">
-			var BASE_URL = '<?php echo BASE_URL; ?>';
-			var minslider = <?= $viewData['filters']['slider0']; ?>;
+			var BASE_URL = '<?php echo BASE_URL; ?>';			
 			var maxslider = <?= $viewData['filters']['slidermax']; ?>;
 		</script>
-		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/jquery.min.js"></script>
 		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/bootstrap.min.js"></script>
 		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/script.js"></script>

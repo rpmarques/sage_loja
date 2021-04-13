@@ -413,3 +413,110 @@ footer h3 {
 .marcas{
 	text-transform: uppercase;
 }
+
+/* Produtos Promocionais */
+.widget_item {
+	margin-top: 10px;
+}
+.widget_item a{
+	text-decoration: none;
+	color: black;
+}
+.widget_info{
+	float: left;
+	width: 80%;
+}
+.widget_photo {
+	float: right;
+	width: 20%; /* RECEBE MESMA LARGURA DO img */
+}
+.widget_photo img {
+	border: 1px solid #ccc;
+	width: 95%;
+}
+.widget_productname {
+	font-weight: bold;
+	color: #407ac5;
+}
+
+.widget_price span {
+	color:#999;
+}
+
+/* PAGINA DO PRODUTO */
+.preco_original{
+	font-size: 25px;
+	font-weight: bold;
+}
+.preco_antigo{
+	font-size: 14px;
+	color: #CCC;
+}
+
+/* FORMUARIO DO ADICIONAR AO CARRINHO */
+.add_to_cart_form {
+	margin-top: 20px;
+}
+.add_to_cart_qtde{
+	height: 35px;
+	width: 35px;
+	text-align: center;
+	border:1px solid #CCC;
+	outline: 0; /* qndo o componente recebe o foto não fica destacado*/
+	float: left;
+}
+.add_to_cart_form  button {
+	width: 30px;
+	font-weight: bold;
+	height: 35px;
+	text-align: center;
+	border:1px solid #CCC;
+	background-color: white;
+	float: left;
+	outline: 0;
+}
+.btn_add_to_cart{
+	height: 35px;
+	float: left;
+	margin-left: 10px;
+	background-color: #407ac5;
+	border: 1px solid #407ac5;
+	border-radius: 3px;
+	color: #FFF;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+/* FOTOS DO PRODUTO */
+.foto_principal img {
+	width: 100%;
+}
+.foto_item{
+	width: 25%;
+	float: left;
+	text-align: center;
+	cursor: pointer;
+}
+.foto_item img{
+	width: 90%;
+}
+
+/* CARRINHO */
+.btn_add_qtde_cart button{
+	width: 30px;
+	font-weight: bold;
+	height: 35px;
+	text-align: center;
+	border:1px solid #CCC;
+	background-color: white;
+	float: left;
+	outline: 0;	
+}
+.botao{
+	background-color: #407ac5;
+	border-radius: 5px;
+	padding: 10px;
+	border: 0;
+	color: #FFF;
+}

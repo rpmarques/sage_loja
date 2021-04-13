@@ -1,13 +1,27 @@
 <?php 
+
+//MODEL FAZ AS CONSULTAS NO BANCO
 class Products extends model {
 
     //TRAZ O PRODUTOS
     // rInicioPaginacao = PONTO INICIAL DA PAGINAÇÃO
     // $rQtdePorPagina = AQUI É QTDE DE ITENS QUE VAMOS MOSTRAR POR PÁGINA
     // $rFiltros FILTROS PRA FAZER O WHERE
-    public function getList($rInicioPaginacao = 0, $rQtdePorPagina = 3, $rFiltros = array()){
+    
+    //TRAZ TODOS OS PRODUTOS
+    public function getList($rInicioPaginacao = 0, $rQtdePorPagina = 3, $rFiltros = array(), $rAleatorio=false){
 
         $array = array();
+        
+        $aleatorio = "";
+        if ($rAleatorio==true){
+            $aleatorio=" ORDER BY RAND() ";
+        }
+
+        if (!empty($rFiltros['toprated'])){
+            $aleatorio=" ORDER By rating DESC ";
+        }
+
         $where = $this->montaWhere($rFiltros);
             
         $sql =" SELECT products.*,brands.name AS nome_marca,categories.name AS nome_categoria ";
@@ -15,12 +29,12 @@ class Products extends model {
         $sql .=" LEFT JOIN brands ON products.id_brand=brands.id ";
         $sql .=" LEFT JOIN categories ON products.id_category=categories.id ";
         $sql .=" WHERE ".implode(' AND ',$where)."  ";
-        $sql .="LIMIT $rInicioPaginacao,$rQtdePorPagina";               
+        $sql .= $aleatorio;
+        $sql .=" LIMIT $rInicioPaginacao,$rQtdePorPagina ";               
 
         $sql = $this->db->prepare($sql);        
         
         $this->bindWhere($rFiltros, $sql);  
-        
         $sql->execute();
         if ($sql->rowCount() > 0 ){
             $array = $sql->fetchAll();
@@ -34,6 +48,90 @@ class Products extends model {
 
     } //FIM getList
 
+    //TRAZ UM PRODUTO BUSCANDO PELO ID
+    public function pegaProduto($rID) {
+        $array = array();
+
+        if (!empty($rID)){
+            $sql =" SELECT products.*,brands.name AS nome_marca,categories.name AS nome_categoria ";
+            $sql .="  FROM products ";
+            $sql .=" LEFT JOIN brands ON products.id_brand=brands.id ";
+            $sql .=" LEFT JOIN categories ON products.id_category=categories.id ";
+            $sql .= " WHERE products.id=:id";
+            $sql = $this->db->prepare($sql);
+            $sql->bindValue(":id",$rID);
+            $sql->execute();
+
+            if ($sql->rowCount() > 0){
+                $array = $sql->fetch();
+            }
+
+
+        }
+        return $array;
+    } //FIM pegaProduto
+
+    public function pegaInfo($rID){
+        $sql ="SELECT * FROM products WHERE id = :id";
+        $sql = $this->db->prepare($sql);
+        $sql->bindValue(":id",$rID);
+        $sql->execute();
+
+        if ($sql->rowCount() > 0){
+            $array = $sql->fetch();
+            // PEGO O PRIMEIRO DO ARRAY DE IMAGENS, JÁ QUE O 
+            // getImagesByProductsId ME DEVOLVE UM ARRAY
+            $images = current($this->getImagesByProductsId($rID));
+            $array['image'] = $images['url'];
+        }
+
+        return $array;
+
+    } //fim pegaInfo
+
+    //OPÇÕES DOS PRODUTOS BUSCANDO PELO ID
+    public function getOptionsByProductsId($rID){
+        $options = array();
+
+        //PEGO AS OPÇÕES LA DOS PRODUTOS
+        $sql = "SELECT  options FROM products WHERE id=:id";
+        $sql = $this->db->prepare($sql);
+        $sql->bindValue(":id",$rID);
+        $sql->execute();
+
+        if($sql->rowCount() > 0) {
+            $options = $sql->fetch();
+            $options = $options['options'];
+            //PEGO O CADASTRO DAS OPÇÕES LA DOS PRODUTOS
+            $sql = "SELECT * FROM options WHERE id IN ($options) ";
+            $sql = $this->db->query($sql);
+            $options = $sql->fetchAll();
+
+            //AGORA PEGO OS VALORES DAS OPÇÕES
+            $sql ="SELECT * FROM products_options WHERE id_product = :id";
+            $sql = $this->db->prepare($sql);
+            $sql->bindValue(":id",$rID);
+            $sql->execute();
+            $options_valores = array();
+            if ($sql->rowCount() > 0){
+                foreach($sql->fetchAll() as $op_item){
+                    $options_valores[$op_item['id_option']] = $op_item['p_value'];
+                }
+            }
+            
+            
+            //JUNTO VALORES, E NOMES NO MESMO ARRAY PRA DEVOLVER
+            foreach($options as $chave =>$op_item){
+                if (isset($options[$chave]['id'])){
+                    $options[$chave]['value'] = $options_valores[$op_item['id']];
+                }else{
+                    $options[$chave]['value'] = '';
+                }
+            }
+        }
+
+        return $options;
+    }
     // PEGA AS IMAGENS DOS PRODUTOS
     public function getImagesByProductsId($rID){
         $array = array();
@@ -51,6 +149,16 @@ class Products extends model {
         return $array;
 
     } //FIM getImagesByProductsId
+
+    //PEGA AS AVALIAÇÕES DOS PRODUTOS
+    public function pegaAvaliacoes($rID,$rQtde){
+        $array = array();
+
+        $rates = New Rates();
+        $array = $rates->getRates($rID,$rQtde);
+
+        return $array;
+    }
 
     //DEVOLVE O TOTAL DE PRODUTOS
     public function getTotal($rFiltros = array()){
@@ -71,7 +179,7 @@ class Products extends model {
     } //FIM getTotal()
 
     public function getListOfBrands($rFiltros = array()){
-        
+        $array = array();
         $where = $this->montaWhere($rFiltros);
 
         $sql = "SELECT id_brand,COUNT(id) AS cont_marcas FROM products 
@@ -92,13 +200,13 @@ class Products extends model {
     }
 
     public function pegaMaiorPreco($rFiltros = array()){
-        $where = $this->montaWhere($rFiltros);
+        // $where = $this->montaWhere($rFiltros);
 
-        $sql = "SELECT MAX(price) AS price FROM products WHERE ".implode(' AND ',$where);
+        $sql = "SELECT MAX(price) AS price FROM products ";
 
         $sql = $this->db->prepare($sql);
 
-        $this->bindWhere($rFiltros, $sql);
+        // $this->bindWhere($rFiltros, $sql);
         $sql->execute();
 
         if ($sql->rowCount() > 0 ){
@@ -132,6 +240,7 @@ class Products extends model {
     } //FIM pegaMenorPreco
 
     public function pegaListaEstrelas($rFiltros = array()){
+        $array = array();
         $where = $this->montaWhere($rFiltros);
 
         $sql = "SELECT rating,COUNT(id) AS cont_estrelas FROM products 
@@ -232,10 +341,11 @@ class Products extends model {
 
     }//FIM pegaConteudoOpcoes($groups,$ids)
 
-/* ########################################################
-METODOS PRIVADOS, SÓ PODEM SER CHAMADOS AQUI DENTDO DO MODEL
-######################################################## */
-
+/*
+################################################################
+# METODOS PRIVADOS, SÓ PODEM SER CHAMADOS AQUI DENTDO DO MODEL #
+################################################################ 
+*/
 
     //MÉTODO PRIVADO PARA CRIAR O WHERE 
     private function montaWhere($rFiltros){               
@@ -262,10 +372,27 @@ METODOS PRIVADOS, SÓ PODEM SER CHAMADOS AQUI DENTDO DO MODEL
             $where[]=" sale='1' ";
         }
 
+        if (!empty($rFiltros['featured'])){
+            $where[]=" featured='1' ";
+        }
+
         //FILTRO DE OPÇÕES
         if (!empty($rFiltros['options'])){
             $where[] = "products.id IN (SELECT id_product FROM  products_options 
                 WHERE products_options.p_value IN('".implode("','",$rFiltros['options'])."'))";
+        }
+
+        //FILTRO DE PREÇOS
+        if (!empty($rFiltros['slider0'])){
+            $where[]=" price >=:slider0 " ;
+        }
+
+        if (!empty($rFiltros['slider1'])){
+            $where[]=" price <=:slider1 " ;
+        }
+
+        if (!empty($rFiltros['textoBusca'])){
+            $where[]="products.name LIKE :textoBusca";
         }
 
         return $where;
@@ -279,6 +406,20 @@ METODOS PRIVADOS, SÓ PODEM SER CHAMADOS AQUI DENTDO DO MODEL
         if (!empty($rFiltros['category'])){
             $rSql->bindValue(":id_category",intval($rFiltros['category']));
         } 
+
+        //FILTRO DE PREÇOS
+        if (!empty($rFiltros['slider0'])){
+            $rSql->bindValue(":slider0",intval($rFiltros['slider0']));
+        }
+        if (!empty($rFiltros['slider1'])){
+            $rSql->bindValue(":slider1",intval($rFiltros['slider1']));
+        }
+
+        //BUSCA O TERMO APENAS NO CAMPO NOME DO PRODUTO, PODEMOS MELHORAR ISSO
+        if (!empty($rFiltros['textoBusca'])){
+            $rSql->bindValue(':textoBusca','%'.$rFiltros['textoBusca'].'%');
+        }
+
     } // FIM bindWhere
 }
 ?>
