@@ -11,3 +11,21 @@ mailchimp.com
 composer require pagseguro/pagseguro-php-sdk
 
 /* GITHUB  */
+
+git init => INICIALIZA O REPOSITORIO
+
+git status - VERIFICA SE TEM ARQUIVO PRA ADICINOAR
+git add -A - ADICIONA TODOS OS ARQUIVOS
+git commit -m "Texto do commit"
+git log - VERIFICA OS COMMITs FEITOS
+
+git commit -am "[MENSAGEM]" =>ADICIONA OS ARQUIVOS AO REPOSITORIO LOCAL
+
+
+criar chave ssh e ligar na conta;
+
+faz a ligação com o local com o web
+git remote add origin [link la do repositorio git]
+
+manda pro web
+git push -u origin main
