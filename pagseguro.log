@@ -1048,3 +1048,6 @@ Request ID: 2I0zHh-7ZPeWYdIA80d8N43cI9yzuNf1ExbkAuTQ7SaQsjVAt5n9dg==
 13/04/2021 13:59:17 PagSeguro.Session[info]: Begin
 13/04/2021 13:59:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
 13/04/2021 13:59:18 PagSeguro.Session[info]: Session ID: 1ef5c5427f084a6a8e82f4a5c69789b6
+13/04/2021 22:09:58 PagSeguro.Session[info]: Begin
+13/04/2021 22:09:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nairacharnoski%40gmail.com&token=7AA6BE10A1764C8EB0AF63A0995D3BCB
+13/04/2021 22:09:59 PagSeguro.Session[info]: Session ID: 0e31b663f4dc4a63b179a5346214a39e

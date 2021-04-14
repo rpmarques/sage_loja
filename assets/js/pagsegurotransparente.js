@@ -68,7 +68,7 @@ $(function(){
                             if(json.error=true){
                                 alert(json.msg);
                             }else{
-                                window.location.href = BASE_URL + 'pagsegurotransparente/obrigado';
+                                window.location.href = BASE_URL + 'pagsegurotransparente\obrigado';
                             }
                          },
                         error:function(r){ 
@@ -101,9 +101,7 @@ $(function(){
                     $('input[name=bandeira_cartao]').attr('value', bandeira);
                     /*PEGAR PARCELAMENTO*/
 
-                    //alert($('input[name=total]').val());
-                    PagSeguroDirectPayment.getInstallments({  
-                                              
+                    PagSeguroDirectPayment.getInstallments({                                                
                         amount:$('input[name=total]').val(), //TOTAL DA COMPRA
                         brand:window.bandeira, //BANDEIRA DO CARTÃO
                         //maxInstallmentNoInterest:3, //NRO DE PARCELAMENTOS SEM JUROS

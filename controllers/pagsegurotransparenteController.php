@@ -193,7 +193,7 @@ class pagsegurotransparenteController extends controller {
         $store = new Store();
         $dados=$store->getTemplateData();
 
-        $this->loadtemplate('pagseguro_obrigado',$dados);
+        $this->loadtemplate("pagseguro_obrigado",$dados);
 
     }// FiM function obrigado
 
@@ -208,18 +208,6 @@ class pagsegurotransparenteController extends controller {
                 );
                 $ref = $retorno->getReference();
                 $status = $retorno->getStatus();
-                /*
-                1->AGUARDANDO PAGAMENTO
-                2->EM ANÁLISE
-                3->PAGA
-                4->DISPONÍVEL
-                5->EM DISPUTA
-                6->DEVOLVIDA
-                7->CANCELADA
-                8->DEBITADO
-                9->RETENÇÃO TEMPORÁRIA
-                */
-
 
                 switch ($status) {
                     case '1': // AGUARDANDO PAGAMENTO
