@@ -65,10 +65,11 @@ $(function(){
                         },
                         dataType:'json',
                         success:function(json){
-                            if(json.error=true){
+                            if(json.error == true){
                                 alert(json.msg);
                             }else{
-                                window.location.href = BASE_URL + 'pagsegurotransparente\obrigado';
+                                alert(BASE_URL + 'pagsegurotransparente/obrigado');
+                                window.location.href = BASE_URL + 'pagsegurotransparente/obrigado';
                             }
                          },
                         error:function(r){ 
