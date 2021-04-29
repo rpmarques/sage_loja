@@ -208,36 +208,39 @@ class pagsegurotransparenteController extends controller {
                 );
                 $ref = $retorno->getReference();
                 $status = $retorno->getStatus();
+                //echo 'cu'.$status;
+                exit;
+                
 
                 switch ($status) {
-                    case '1': // AGUARDANDO PAGAMENTO
+                    case 1: // AGUARDANDO PAGAMENTO
                         # code...
                         break;
-                    case '2': //EM ANÁLISE
+                    case 2: //EM ANÁLISE
                         # code...
                         break;
-                    case '3': //PAGA
+                    case 3: //PAGA
                         $vendas->aprovaVenda($ref);
                         break;
-                    case '4': //DISPONÍVEL
+                    case 4: //DISPONÍVEL
                         break;
-                    case '5': //EM DISPUTA
+                    case 5: //EM DISPUTA
                         break;                    
-                    case '6': //DEVOLVIDA
+                    case 6: //DEVOLVIDA
                         break;
-                    case '7': //CANCELADA
+                    case 7: //CANCELADA
                         $vendas->cancelaVenda($ref);
                         break;                        
-                    case '8': //DEBITADO
+                    case 8: //DEBITADO
                         break;
-                    case '9': //RETENÇÃO TEMPORÁRIA
+                    case 9: //RETENÇÃO TEMPORÁRIA
                         break;
 
                     default:
                         # code...
                         break;
                 }                
-            }
+            } //fim if(\PagSeguro\Helpers\Xhr::hasPost()){
         } catch (Exception $e) {
             //throw $th;
         }

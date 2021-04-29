@@ -68,7 +68,6 @@ $(function(){
                             if(json.error == true){
                                 alert(json.msg);
                             }else{
-                                alert(BASE_URL + 'pagsegurotransparente/obrigado');
                                 window.location.href = BASE_URL + 'pagsegurotransparente/obrigado';
                             }
                          },
